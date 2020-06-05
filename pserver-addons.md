@@ -34,6 +34,7 @@ Max Zoom Camera, have to run each time you log in
 ### Honorable Mentions
 
 [pfUI](https://legacy-wow.com/vanilla-addons/pfui/) - Somewhat like elvUI
+
 [Bartender2](https://legacy-wow.com/vanilla-addons/bartender-2/) - If you need a bar mod
 
 ### Addons in TG pack and their basic use
