@@ -64,7 +64,7 @@ Helper for NotGrid
 Nothing to do here, better map
 ```
 
-### Clique
+### Clique (Healers)
 ```
 Mouse-over healing
 # Menu 
