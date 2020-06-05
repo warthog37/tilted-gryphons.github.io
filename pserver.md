@@ -16,9 +16,9 @@ We have tested this old client and it has bugs! These instructions, if followed,
 * Run WoW on Microsoft Windows
   * Simply Run WoW.exe
 * Run WoW on Mac
- * Right click World of Warcraft.app, it opens as a folder
- * Open the Contents folder, then the MacOS folder 
- * You will see a file called World of Warcraft, run it
+  * Right click World of Warcraft.app, it opens as a folder
+  * Open the Contents folder, then the MacOS folder 
+  * You will see a file called World of Warcraft, run it
 * If asked to update hardware changes I recommend choosing 'No'
 * Under Addons choose 'Enable out of date addons'
 
