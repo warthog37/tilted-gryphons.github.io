@@ -133,7 +133,7 @@ Tracks your debuffs on target and HoTs, takes some configuration
 /necb
 ```
 
-### NogGrid (ALL)
+### NotgGrid (ALL)
 ```
 Raid frames that work!
 # Menu
