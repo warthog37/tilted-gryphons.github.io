@@ -32,9 +32,7 @@ Max Zoom Camera, have to run each time you log in
 [pfUI](https://legacy-wow.com/vanilla-addons/pfui/) - Somewhat like elvUI
 [Bartender2](https://legacy-wow.com/vanilla-addons/bartender-2/) - If you need a bar mod
 
-*The addon pack is only the basics detailed below, feel free to add others you may want.*
-
-### Addons in pack and their basic use
+### Addons in TG pack and their basic use
 
 *Feel free to disable addons your class does not need!*
 
