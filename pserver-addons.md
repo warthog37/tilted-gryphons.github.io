@@ -120,6 +120,7 @@ Configurable castbar for old client latency
 ```
 
 ### MoveAnything! (All)
+**Warning: moving bags causes lua errors!**
 ```
 Move Blizzard unit Frames
 # Menu
