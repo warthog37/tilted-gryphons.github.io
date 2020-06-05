@@ -162,6 +162,7 @@ Taunt/Kick announcer
 ### Other Resources
 
 [Nice DB of Addons for 1.12.1](http://www.vanilla-addons.com/)
+
 [List of Github-hosted Addons](https://forum.twinstar.cz/threads/github-list-of-vanilla-addons-1-12-1.123906/) 
 
 *Be sure to remove the '-Master' part of the file if you download a zip here!*
