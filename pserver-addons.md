@@ -19,13 +19,17 @@ Max Zoom Camera, have to run each time you log in
 
 ## Addons
 
-[TG Addon Pack](https://drive.google.com/file/d/1RUKyIFiqlVsYhRpcENhBxyLBiNzpZdmn/view?usp=sharing)
 *Delete your addons folder if you have an older pack! This has improved versions of some addons!*
+
+[TG Addon Pack](https://drive.google.com/file/d/1RUKyIFiqlVsYhRpcENhBxyLBiNzpZdmn/view?usp=sharing)
+
 
 ### Other Resources
 
 [Nice DB of Addons for 1.12.1](http://www.vanilla-addons.com/)
-[List of Github-hosted Addons](https://forum.twinstar.cz/threads/github-list-of-vanilla-addons-1-12-1.123906/) - Be sure to remove the '-Master' part of the file if you download a zip here!
+[List of Github-hosted Addons](https://forum.twinstar.cz/threads/github-list-of-vanilla-addons-1-12-1.123906/) 
+
+*Be sure to remove the '-Master' part of the file if you download a zip here!*
 
 ### Honorable Mentions
 
