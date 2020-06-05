@@ -23,20 +23,6 @@ Max Zoom Camera, have to run each time you log in
 
 [TG Addon Pack](https://drive.google.com/file/d/1RUKyIFiqlVsYhRpcENhBxyLBiNzpZdmn/view?usp=sharing)
 
-
-### Other Resources
-
-[Nice DB of Addons for 1.12.1](http://www.vanilla-addons.com/)
-[List of Github-hosted Addons](https://forum.twinstar.cz/threads/github-list-of-vanilla-addons-1-12-1.123906/) 
-
-*Be sure to remove the '-Master' part of the file if you download a zip here!*
-
-### Honorable Mentions
-
-[pfUI](https://legacy-wow.com/vanilla-addons/pfui/) - Somewhat like elvUI
-
-[Bartender2](https://legacy-wow.com/vanilla-addons/bartender-2/) - If you need a bar mod
-
 ### Addons in TG pack and their basic use
 
 *Feel free to disable addons your class does not need!*
@@ -172,3 +158,16 @@ Taunt/Kick announcer
 # Menu
 /tb
 ```
+
+### Other Resources
+
+[Nice DB of Addons for 1.12.1](http://www.vanilla-addons.com/)
+[List of Github-hosted Addons](https://forum.twinstar.cz/threads/github-list-of-vanilla-addons-1-12-1.123906/) 
+
+*Be sure to remove the '-Master' part of the file if you download a zip here!*
+
+### Honorable Mentions
+
+[pfUI](https://legacy-wow.com/vanilla-addons/pfui/) - Somewhat like elvUI
+
+[Bartender2](https://legacy-wow.com/vanilla-addons/bartender-2/) - If you need a bar mod
