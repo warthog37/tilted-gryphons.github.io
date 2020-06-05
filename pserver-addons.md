@@ -102,8 +102,9 @@ Not sure what this does
 ```
 
 ### Decursive (You know Who You Are)
-```
 [Instructions](https://github.com/Zerf/Decursive)
+```
+Decurses?
 ```
 
 ### EnergyWatch v2 (Rogues/Druids)
