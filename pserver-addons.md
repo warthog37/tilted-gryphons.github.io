@@ -64,6 +64,11 @@ Helper for NotGrid
 Nothing to do here, better map
 ```
 
+### Classic Snowfall
+```
+Activates abilities on key-down instead of the default key-up!
+```
+
 ### Clique (Healers)
 ```
 Mouse-over healing
