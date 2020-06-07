@@ -64,7 +64,7 @@ Helper for NotGrid
 Nothing to do here, better map
 ```
 
-### Classic Snowfall
+### Classic Snowfall (All)
 ```
 Activates abilities on key-down instead of the default key-up!
 ```
