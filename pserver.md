@@ -6,8 +6,8 @@ We have tested this old client and it has bugs! These instructions, if followed,
 ## Getting Started
 * [Create an Account](http://54.172.9.103/)
 * Download the client for your PC
-  * [Windows Client](https://bit.ly/2yrD0VR)
-  * [Mac Client](https://bit.ly/2WYm5na)
+  * [Windows Client](https://drive.google.com/file/d/1KvKwGyeNcCEJEOeMhtYAgTQAg0Ih9asS/view?usp=sharing)
+  * [Mac Client](https://drive.google.com/file/d/1ZJALMdm4kXjZ4VIXMsFWTfiUZXiSRSIe/view?usp=sharing)
   
 *The realmlist is already set in these clients but if you already have a client set your realmlist to: 54.172.9.103*
 
