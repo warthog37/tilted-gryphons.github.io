@@ -19,9 +19,11 @@ Max Zoom Camera, have to run each time you log in
 
 ## Addons
 
+[TG Addon Pack](https://drive.google.com/file/d/1RUKyIFiqlVsYhRpcENhBxyLBiNzpZdmn/view?usp=sharing)
+
 *Delete your addons folder if you have an older pack! This has improved versions of some addons!*
 
-[TG Addon Pack](https://drive.google.com/file/d/1RUKyIFiqlVsYhRpcENhBxyLBiNzpZdmn/view?usp=sharing)
+*If you want an all-in-one solution like elvUI, scroll down to 'other resources'*
 
 ### Addons in TG pack and their basic use
 
@@ -165,7 +167,7 @@ Taunt/Kick announcer
 /tb
 ```
 
-### Other Resources
+## Other Resources
 
 [Nice DB of Addons for 1.12.1](http://www.vanilla-addons.com/)
 
