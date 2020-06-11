@@ -38,27 +38,27 @@ We have tested this old client and it has bugs! These instructions, if followed,
 ## Change Your Graphics Settings
 * Hit Escape -> Video Settings
 * If you monitor has a resolution greater than 1080p you will need to play in windowed mode!
- * Choose windowed mode and clicl 'apply'
- * Set the game resolution and refresh rate to match your desktop
- * Under multisampling choose 24 bit color and depth. For best quality choose 8x for performance choose 1x
- * If you want to play full screen, select the 'maximized' box
- * All other settings are personal pref, I always disable 'full screen glow' shader
- * Click 'apply'
+  * Choose windowed mode and clicl 'apply'
+  * Set the game resolution and refresh rate to match your desktop
+  * Under multisampling choose 24 bit color and depth. For best quality choose 8x for performance choose 1x
+  * If you want to play full screen, select the 'maximized' box
+* All other settings are personal pref, I always disable 'full screen glow' shader
+* Click 'apply'
  
 ## QoL Interface Settings
  * Hit Escape -> Interface Options -> Basic Tab
-  * Adjust Mouse sensitivity if needed
-  * Select Auto Self Cast
-  * Select Enhanced Tooltips
-  * Select Player Guild Names and Player Titles
-  * Show or hide Helm/Cloak if desired
-  * Select Instant Quest Text
-  * Select Buff Durations
-  * I prefer Camera Follow Sytle: Never
-  * Adjust Mouse Look Speed and Max Camera Distance
+   * Adjust Mouse sensitivity if needed
+   * Select Auto Self Cast
+   * Select Enhanced Tooltips
+   * Select Player Guild Names and Player Titles
+   * Show or hide Helm/Cloak if desired
+   * Select Instant Quest Text
+   * Select Buff Durations
+   * I prefer Camera Follow Sytle: Never
+   * Adjust Mouse Look Speed and Max Camera Distance
  * Hit Escape -> Interface Options -> Advanced Tab
-  * Under Raid and Party select Show Target of Target: Always
-  * All other options here are personal pref
+   * Under Raid and Party select Show Target of Target: Always
+   * All other options here are personal pref
  
 ## Gearing Up
  * There are vendors behind where you first zone into Ironforge
