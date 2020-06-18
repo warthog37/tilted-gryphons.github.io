@@ -56,6 +56,29 @@ Teleport yourself to a player's location
 .goname <player>
 ```
 
+### helping Players
+
+Give and item by targeting the player and using the item ID from wowhead (Quantity is optional)
+```
+.additem <item-id> <qty>
+```
+
+Spawn a mob for hunter to train, get mob ID form wowhead
+```
+.npc summon <npc-id>
+```
+
+Level a hunter pet to 60 by targeting pet
+```
+.npc changelevel 60
+```
+
+Level a hunter pet loyalty by targeting pet
+```
+# You need to do this once for each level, so 6 times!
+.pet loyalty 100000
+```
+
 ### Raid Commands
 
 Reset an instance (takes ~5 mins)
@@ -155,4 +178,69 @@ I macro a few common things togther
 /ra .raid cooldown
 ```
 
-My typical order of operation
+### Typical Order of Operation
+
+*!!! Make sure GM Mode is OFF !!!*
+
+1. teleport to AQ
+  * ```.tele aq```
+2. Bring the raid
+  * ```.raid onme```
+3. Buff everyone
+  * ```.raid buff 7```
+4. If we are not going to kill the boss, force wipe
+  * ```.raid die```
+5. Teleport myself to the safespot (still dead)
+  * ```<tele macro>```
+6. Revive the radi
+  * ```.raid revive```
+7. Buff and reset CDs
+  * ```.raid buff 7```
+
+### Known Issues and Workarounds
+
+1.
+```
+Sometimes the boss may not drop combat so you need to target boss and
+.die
+
+Then, respawn the boss by targeting his corpse and
+.respawn
+```
+
+2. 
+```
+Bosses with Adds do not respawn correctly (Sartura, Bug Trio)
+
+You need to force a wipe
+.raid die
+
+Then revive only yourself by targeting yourself with
+.revive
+
+Aggro the Boss in question, let yourself die. The boss should reset correctly
+```
+
+3.
+```
+Adds in bug tunnel need to be killed before pulling Fankriss
+
+Use the AoE clearing apility:
+<need to remember>
+```
+
+4.
+```
+Pulling Emps requires clearing the trash before Huhuran (Anubisaths)
+
+.die them
+```
+
+5.
+```
+Door to emps can stick closed if you have GM mode On
+
+Use tele macro to pull raid through.
+```
+
+
