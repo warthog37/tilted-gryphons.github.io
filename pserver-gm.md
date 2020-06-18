@@ -68,14 +68,26 @@ Spawn a mob for hunter to train, get mob ID form wowhead
 .npc summon <npc-id>
 ```
 
-Level a hunter pet to 60 by targeting pet
+Summon hunter a mob to tame - Tip: .freeze while they tame it
 ```
-.npc changelevel 60
+# Blackrock Worg
+.npc summon 9696
+
+# Brokentooth
+.npc summon 2850
+
+# Son of Hakkar
+.npc summon 11357
 ```
 
-Level a hunter pet loyalty by targeting pet
+Level and max hunter pet loyalty macro, 6 loyalty levels!
 ```
-# You need to do this once for each level, so 6 times!
+.npc changelevel 60
+.pet loyalty 100000
+.pet loyalty 100000
+.pet loyalty 100000
+.pet loyalty 100000
+.pet loyalty 100000
 .pet loyalty 100000
 ```
 
