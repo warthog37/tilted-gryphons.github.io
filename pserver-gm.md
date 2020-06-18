@@ -56,7 +56,7 @@ Teleport yourself to a player's location
 .goname <player>
 ```
 
-### helping Players
+### Helping Players
 
 Give and item by targeting the player and using the item ID from wowhead (Quantity is optional)
 ```
@@ -171,8 +171,10 @@ I macro a few common things togther
 ```
 # Macro 1 (Die)
 /ra .raid die
+
 # Macro 2 (Revive/Repair)
 /ra .raid revive
+
 # Macro 3 (Buff/Reset CDs)
 /ra .raid buff 7
 /ra .raid cooldown
@@ -192,14 +194,13 @@ I macro a few common things togther
   * ```.raid die```
 5. Teleport myself to the safespot (still dead)
   * ```<tele macro>```
-6. Revive the radi
+6. Revive the raid
   * ```.raid revive```
 7. Buff and reset CDs
   * ```.raid buff 7```
 
 ### Known Issues and Workarounds
 
-1.
 ```
 Sometimes the boss may not drop combat so you need to target boss and
 .die
@@ -208,7 +209,6 @@ Then, respawn the boss by targeting his corpse and
 .respawn
 ```
 
-2. 
 ```
 Bosses with Adds do not respawn correctly (Sartura, Bug Trio)
 
@@ -221,7 +221,6 @@ Then revive only yourself by targeting yourself with
 Aggro the Boss in question, let yourself die. The boss should reset correctly
 ```
 
-3.
 ```
 Adds in bug tunnel need to be killed before pulling Fankriss
 
@@ -229,14 +228,12 @@ Use the AoE clearing apility:
 <need to remember>
 ```
 
-4.
 ```
 Pulling Emps requires clearing the trash before Huhuran (Anubisaths)
 
 .die them
 ```
 
-5.
 ```
 Door to emps can stick closed if you have GM mode On
 
