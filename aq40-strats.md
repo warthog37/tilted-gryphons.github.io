@@ -219,13 +219,16 @@
 	* If they get too close to each other they will heal for a lot
 * Vek'Lor (Caster)
 	* Immune to physical damage
-	* Blizzard
-	* Shadowbolt
-	* Suicide bug (AoE 3k damage)
+	* Arcane Burst to anyone in melee range (4.5k damage, knockback, 70% slow)
+	* Blizzard random areas nearby (3.8k damage, slow)
+	* Shadowbolt threat target (4.5k damage)
+	* Suicide bug in random area (AoE 3k damage)
 * Vek'nilash (melee)
 	* Immune to spell damage
-	* Knockback
-	* Enrage bug
+	* Melee attack (1.4k damage [tank gear], can proc extra attack, 1.8k crushing [tank gear])
+	* Uppercut threat target (1.5k damage, knockback)
+	* Unbalancing Strike threat target (4.5k damage [tank gear], -100 defense rating)
+	* Enrage nearby bug
 * Health is linked so they die at the same time
 
 **Strat**
@@ -238,6 +241,8 @@
 * Melee start on the right, casters on the left
 * 5 seconds before teleport melee start running to the other side
 * When they port they gain some aggro on the closest player
+	* Vek'Lor will Arcane Blast if anyone is in melee range so beware on teleport
+		* Bubble Melee Tank when he's inc on tele. Tank make sure to get punted to a safe spot
 	* Make sure to get in position beforehand
 	* Warriors can drag Vek'nilash to wall to help casters when port happens
 * Move out of blizzard
