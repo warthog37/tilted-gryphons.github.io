@@ -26,8 +26,7 @@ We aim to have a system that fairly distributes loot as quickly and efficiently 
 • Crafting mats and non-essential BoE blues will always be sent to guild bank to help fund raiders' equipment, enchants, legendaries, etc. <br />
 
 ### Loot Priority by Rank
-Loot priority will generally be decided by the following list. The lines higher up have higher priority, and anything listed on a line has equal priority and would result in gear being rolled on. <br />
-Find out more [about alts](https://tilted-gryphons.github.io/alts.html).
+Loot priority will generally be decided by the following list. The lines higher up have higher priority, and anything listed on a line has equal priority and would result in gear being rolled on. Find out more about [alts](https://tilted-gryphons.github.io/alts.html).
 
 **a.** Core Raider mainspec / Core Raider MS minor upgrade <br />
 **b.** Core Raider offspec specific - meaning tanking gear, resist gear, tier, etc
