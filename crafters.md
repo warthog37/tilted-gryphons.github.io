@@ -5,6 +5,8 @@ DM an officer (but realistically probably Rothana) on Discord to get yourself ad
 - Enchanting and Alchemy are at the top because I think they're what people most frequently need to find a lackey for.
 - If there's an important item missing let me know.
 
+[Enchanting](https://tilted-gryphons.github.io/page.html/#enchanting)
+
 ## Enchanting
 ### Weapons
 **Crusader:** Badasz, Phey, Taicelynn <br />
