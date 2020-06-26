@@ -21,8 +21,8 @@ Not too much is required – we don’t want to dictate what your UI should look
 -3- [ThreatClassic2:](https://www.curseforge.com/wow/addons/ThreatClassic2) A threat meter which only works well if everyone in the raid has it installed. Do so! <br />
 -4- [ClassicCastbars:](https://www.curseforge.com/wow/addons/classiccastbars) Or any other kind of addon that shows enemy cast bars. <br />
 -5- [Decursive:](https://www.curseforge.com/wow/addons/decursive) If you're a decurse/dispelling class, a decursing addon of some sort for easy dispelling. <br />
--6- Class Specifics: Please check with your Class Lead if they have specific mods that they require you to have installed. 
+-6- **Class Specifics:** Please check with your Class Lead if they have specific mods that they require you to have installed. 
 
 #### Recommended Mods
-- Guild Roster Manager: It tells you who people's mains are and lets us sync up our guild blacklist so you know who's trouble.
-    (https://www.curseforge.com/wow/addons/guild-roster-manager)
+- [Guild Roster Manager:](https://www.curseforge.com/wow/addons/guild-roster-manager) This tells you who people's mains are and lets us sync up our guild blacklist so you know who's trouble.
+- [Nova World Buffs:](https://www.curseforge.com/wow/addons/nova-world-buffs) You can set this mod to silence all the guild chat spam that comes from other people with this mod. It's very useful for letting you know when you can get another Darkmoon Faire buff, and really I wouldn't want to try to track down a Songflower without it.
