@@ -8,6 +8,8 @@ It isn’t a big deal, just sign up with the absent role **_and_** send your Cla
 
 This is a courtesy that we do expect you to extend to the officers who are volunteering a lot of their time to keep the guild running so that we can all raid. Give us information to work with, and don't leave 39 other people wondering if you're okay.
 
+If you drop below 70% attendance you will most likely get demoted to Gryphon, and if you want to reclaim a Core Raider spot you will have to go through another three week trial period if we have an open spot for your class.
+
 ### Preparedness
 - You _must_ sign up for each raid every week with some sort of reaction. Look at the Raid Signups in Discord to do this.
 - You are expected to bring consumables and get world buffs, _especially_ when we’re working on progression content.
