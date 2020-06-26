@@ -5,9 +5,9 @@ DM an officer (but realistically probably Rothana) on Discord to get yourself ad
 - Enchanting and Alchemy are at the top because I think they're what people most frequently need to find a lackey for.
 - If there's an important item missing let me know.
 
-[Enchanting](#enchanting)
+## Enchanters
+[Alchemy](#alchemists) | [Blacksmithing](#blacksmiths) | [Engineering](#engineers) | [Leatherworking](#leatherworkers) | [Tailoring](#tailors)
 
-## Enchanting
 ### Weapons
 **Crusader:** Badasz, Phey, Taicelynn <br />
 **Fiery:** Taicelynn, Badasz, Phey <br />
@@ -56,6 +56,7 @@ DM an officer (but realistically probably Rothana) on Discord to get yourself ad
 **+15 Nature Resist:** 
 
 ## Alchemists
+[Enchanting](#enchanting) | [Blacksmithing](#blacksmiths) | [Engineering](#engineers) | [Leatherworking](#leatherworkers) | [Tailoring](#tailors) <br />
 • Litoses has everything and Roth has most things.
 
 ### Flasks
@@ -81,11 +82,13 @@ DM an officer (but realistically probably Rothana) on Discord to get yourself ad
 **Gurubashi Mojo Madness:** Litoses, Rothana <br />
 
 ## Blacksmiths
+[Enchanting](#enchanting) | [Alchemy](#alchemists) | [Engineering](#engineers) | [Leatherworking](#leatherworkers) | [Tailoring](#tailors) <br />
 **Elemental Sharpening Stone:** Damebesitos, Catlordx <br />
 **Lionheart Helm:** Damebesitos <br />
 dark iron gear?
 
 ## Engineers
+[Enchanting](#enchanting) | [Alchemy](#alchemists) | [Blacksmithing](#blacksmiths) | [Leatherworking](#leatherworkers) | [Tailoring](#tailors) <br />
 **Biznicks 247x128 Accurascope (3% ranged hit):** Kanute, Rothana <br />
 **Sniper Scope (+7 dmg):** Kanute, Rothana <br />
 **Force Reactive Disk:** Kanute <br />
@@ -93,11 +96,13 @@ dark iron gear?
 **Arcanite Dragonling:** Kanute <br />
 
 ## Leatherworkers
+[Enchanting](#enchanting) | [Alchemy](#alchemists) | [Blacksmithing](#blacksmiths) | [Engineering](#engineers) | [Tailoring](#tailors) <br />
 **Devilsaur Legs:** Reohaiko, Hatredcopter <br />
 **Devilsaur Gloves:** Reohaiko, Hatredcopter <br />
 nature resist gear?
 
 ## Tailors
+[Enchanting](#enchanting) | [Alchemy](#alchemists) | [Blacksmithing](#blacksmiths) | [Engineering](#engineers) | [Leatherworking](#leatherworkers) <br />
 **Flarecore Set:** Phey <br />
 **Bloodvine Set:** Mystic, Phey <br />
 **Felcloth Set:** Deitz, Phey <br />
