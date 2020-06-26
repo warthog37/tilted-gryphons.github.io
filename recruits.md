@@ -23,7 +23,7 @@ We may be interested in picking up exceptional players regardless of whether we 
 • Maintain reliable attendance of at least 75%. <br />
 • Have a headset and use a push-to-talk button. <br />
 • Install all required mods and keep them up to date. <br />
-• Meet any special requirements laid out by your Class Lead. <br />
-• Review our Raider Expectations. <br />
-• Review our Loot System. <br />
-• Review our [Guild Structure and Officers](https://tilted-gryphons.github.io/guildstructure.html).
+• Meet any special requirements laid out by your [Class Lead](https://tilted-gryphons.github.io/guild-structure.html). <br />
+• Review our [Raider Expectations](https://tilted-gryphons.github.io/raider-expectations.html). <br />
+• Review our [Loot System](https://tilted-gryphons.github.io/loot.html). <br />
+• Review our [Guild Structure and Officers](https://tilted-gryphons.github.io/guild-structure.html).
