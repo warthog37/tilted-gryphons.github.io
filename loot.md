@@ -20,7 +20,7 @@ We aim to have a system that fairly distributes loot as quickly and efficiently 
 **Rule of Round Robin:** One of the people in question has had success with rolls on significant upgrades that raid already. <br />
 **Rule of Legendaries:** For weapons, bis-forever items, and some trinkets. These obviously require some unusual deliberation and consideration, including things like attendance, performance. <br />
 
-##### Important Notes
+#### Important Notes
 • We do not show any special consideration towards officers / class leaders. <br />
 • Two random raid members will sit on the Loot Council each week. We do this so that members can always see how things are done, they can question why loot is going to a particular person, and they can put in their vote of who should get something. This is not a high-pressure role - you can interact or just observe. <br />
 • Crafting mats and non-essential BoE blues will always be sent to guild bank to help fund raiders' equipment, enchants, legendaries, etc. <br />
@@ -34,6 +34,6 @@ Loot priority will generally be decided by the following list. The lines higher 
 **b.** Core Raider offspec specific - meaning tanking gear, resist gear, tier, etc
 **c.** Core Raider PvP (if you PvP) <br />
 **d.** Trial Raider mainspec, Core Raider offspec, Core Raider Alt mainspec, Sub/Casual mainspec, Friends-n-Family mainspec <br />
-**e.** PvP (if you Pvp) for: Trial Raider, Core Raider Alt, Sub/Casual, Friends-n-Family <br />
+**e.** PvP (if you PvP) for: Trial Raider, Core Raider Alt, Sub/Casual, Friends-n-Family <br />
 **f.** Offspec for: Trial Raider, Core Raider Alt, Sub/Casual, Friends-n-Family <br />
    
