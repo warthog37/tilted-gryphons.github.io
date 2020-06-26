@@ -1,6 +1,6 @@
 # Tilted Gryphons Structure and Officers
 
-**_Tilted Gryphons_** is a semicore PvE Alliance guild playing on the North American server Pagle!
+**_Tilted Gryphons_** is a [semicore](https://tilted-gryphons.github.io/semicore.md) PvE Alliance guild playing on the North American server Pagle. <br />
 
 ### Officer Roles
 We have one Guild Master and eight Class Leaders (CLs) who form our officer core. Officers are players who have volunteered to put in some extra effort to help keep the guild running so that we can have fun and clear content. You may see us all pile into the Round Table channel in Discord for the weekly meeting on Wednesdays.
