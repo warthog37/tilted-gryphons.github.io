@@ -22,7 +22,7 @@ We may be interested in picking up exceptional players regardless of whether we 
 • Be attuned to Ony, MC, and BWL. <br />
 • Maintain reliable attendance of at least 75%. <br />
 • Have a headset and use a push-to-talk button. <br />
-• Install all required mods and keep them up to date. <br />
+• Install all [required mods](https://tilted-gryphons.github.io/raider-expectations.html) and keep them up to date. <br />
 • Meet any special requirements laid out by your [Class Lead](https://tilted-gryphons.github.io/guild-structure.html). <br />
 • Review our [Raider Expectations](https://tilted-gryphons.github.io/raider-expectations.html). <br />
 • Review our [Loot System](https://tilted-gryphons.github.io/loot.html). <br />
