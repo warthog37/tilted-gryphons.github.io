@@ -24,11 +24,10 @@ We aim to have a system that fairly distributes loot as quickly and efficiently 
 • We do not show any special consideration towards officers / class leaders. <br />
 • Two random raid members will sit on the Loot Council each week. We do this so that members can always see how things are done, they can question why loot is going to a particular person, and they can put in their vote of who should get something. This is not a high-pressure role - you can interact or just observe. <br />
 • Crafting mats and non-essential BoE blues will always be sent to guild bank to help fund raiders' equipment, enchants, legendaries, etc. <br />
-• Sub/Casual, Friends-n-Family, and all Alt Characters are _not considered_ for the guild’s free enchant service. <br />
-• Your alt may come to raids if it is in a different guild, but you still have to get your alt approved. Apply in the alt-applications channel on Discord.
 
 ### Loot Priority by Rank
-Loot priority will generally be decided by the following list. The lines higher up have higher priority, and anything listed on a line has equal priority and would result in gear being rolled on.
+Loot priority will generally be decided by the following list. The lines higher up have higher priority, and anything listed on a line has equal priority and would result in gear being rolled on. <br />
+Find out more [about alts](https://tilted-gryphons.github.io/alts.html).
 
 **a.** Core Raider mainspec / Core Raider MS minor upgrade <br />
 **b.** Core Raider offspec specific - meaning tanking gear, resist gear, tier, etc
