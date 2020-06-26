@@ -19,10 +19,10 @@ Officers are around to talk to! Whilst you need to speak to your CL about anythi
 **Warrior CL:** Kanute
 
 ### Guild Ranks
-**Gryphon Master** Guild Master
-**Flightmaster** Officers and their Alts
-**War Gryphon** Core Raiders
-**War Fledgeling** Trial Raiders
-**Gryphon** Casuals, Socials, Friends, Family, Substitute Raiders, Core Raider Alts
-**Crusty Feather** Temporary rank - you did something stupid.
+**Gryphon Master** Guild Master <br />
+**Flightmaster** Officers and their Alts <br />
+**War Gryphon** Core Raiders <br />
+**War Fledgeling** Trial Raiders <br />
+**Gryphon** Casuals, Socials, Friends, Family, Substitute Raiders, Core Raider Alts <br />
+**Crusty Feather** Temporary rank - you did something stupid. <br />
 **Baby Gryphon** Newly invited to the guild.
