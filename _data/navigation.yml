@@ -13,6 +13,10 @@ sidemenu:
         url: /pages/alts/
       - title: "Crafters"
         url: /pages/crafters/
+  - title: "Links"
+    children:
+      - title: "Attendance"
+        url: https://docs.google.com/spreadsheets/d/177cdGkRlzIuB7uNDkvu6BLzvX5bJ78070ZargMugxVo/edit#gid=0  
   - title: "Raid Strategy"
     children:
       - title: "AQ40 Notes"
