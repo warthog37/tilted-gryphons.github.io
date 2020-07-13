@@ -3,7 +3,7 @@ title: All about Alts
 ---
 **TLDR:** If you are a core raider, you may post your alt application in the #alt-applications channel and wait for your main CL and your alt CL to both add any reaction icon other than a red X to approve your alt. Your alt and main must be logged at the instance entrance, and you must be prepared to raid on either character as the raid composition requires, or by whim of either of your CLs.
 
-- Your alt is subject to all of the usual [raider expectations](https://tilted-gryphons.github.io/raider-expectations.html).
+- Your alt is subject to all of the usual [raider expectations](https://tilted-gryphons.github.io/pages/raider-expectations.html).
 - Core raiders' alts are allowed to come to raid content that is one release behind the most recent raid.
 - Alts may come to ZG, AQ20, and Ony regardless of content age, but you still need permission to bring your alt.
 - A maximum of 6 alts may attend a raid.
