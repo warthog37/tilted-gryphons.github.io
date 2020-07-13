@@ -16,4 +16,4 @@ title: All about Alts
 - We will not be summoning Mains/Alts to swap out on different fights. There are exceptions to this rule such as class items from Domo's chest, items off Ragnaros, bindings, and hunter tranqs for Magmadar.
 - Everyone needs to apply to bring their alt.
 - Your alt doesn't have to be in guild, but it is preferred.
-- **Sub/Casual, Friends-n-Family, and all Alt Characters are _not eligible_ for the guild’s free enchant service.**
+- Sub/Casual, Friends-n-Family, and all Alt Characters are **_not eligible_** for the guild’s free enchant service.
