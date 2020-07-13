@@ -1,7 +1,7 @@
 ---
 title: Raider Expectations
 ---
-If we left everything up to luck or a magic 8-ball, we'd never get anywhere. Read this information so that you aren't left guessing about what's expected of you, and if you have a question, ***ask it!***
+If we left everything up to luck or a magic 8-ball, we'd never get anywhere. Read this information so that you aren't left guessing about what's expected of you, and if you have a question, ***ASK IT!***
 
 ### Attendance
 We require you to maintain 75% attendance. We recognise that real life happens and that sometimes you won’t be able to make a raid.
