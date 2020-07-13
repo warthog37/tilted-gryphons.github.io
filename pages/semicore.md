@@ -4,7 +4,7 @@ title: Semicore Defined for Us
 
 TLDR; Hardcore guilds require a large time investment outside of raid, Casual guilds require a large timesink in raid. We require very minimal time commitment in both areas achieved by a small amount of preparation. Some of that preparation is on a pserver. If you don’t have time for pserver, you for sure do not have time for actual AQ progression.
 
-###Semi-Hardcore and AQ preparation
+### Semi-Hardcore and AQ preparation
 
 Everyone who was recruited into this guild was given the same one-liner (or some slight variation of it): We are a semi-hardcore guild that raids Tues/Weds/Sat at 9 P.M. server. I am going to define what semi-hardcore means to this guild in loose terms, along with our raider demographic from what I have seen. This is overdue but I think the timing will work.
 
