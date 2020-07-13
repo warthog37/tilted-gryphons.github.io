@@ -1,0 +1,29 @@
+sidemenu:
+  - title: "General"
+    children:
+      - title: "Recruits"
+        url: /pages/recruits/
+      - title: "Raider Expectations"
+        url: /pages/raider-expectations/
+      - title: "Guild Structure"
+        url: /pages/guild-structure/
+      - title: "Loot System"
+        url: /pages/loot/
+      - title: "Alts"
+        url: /pages/alts/
+      - title: "Crafters"
+        url: /pages/crafters/
+  - title: "Raid Strategy"
+    children:
+      - title: "AQ40 Notes"
+        url: /pages/aq40-strats/
+      - title: "C'Thun Melee Positioning"
+        url: /pages/cthun-melee-positioning/
+  - title: "Private Server"
+    children:
+      - title: "Getting Started"
+        url: /pages/pserver/
+      - title: "Addons and Macros"
+        url: /pages/pserver-addons/
+      - title: "GM Commands"
+        url: /pages/pserver-gm/

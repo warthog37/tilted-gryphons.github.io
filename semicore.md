@@ -1,1 +1,0 @@
-# Semicore Defined for Us
