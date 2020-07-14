@@ -12,8 +12,8 @@ The guild's [loot priority outline](https://docs.google.com/spreadsheets/d/17gVC
 Our loot is distributed according to our [loot priority outline](https://docs.google.com/spreadsheets/d/17gVCAlQK3_t0znFviccCSD6rcOJlXDODOXFTroTw0II/edit#gid=1516348409).
 We aim to have a system that fairly distributes loot as quickly and efficiently as possible, while still keeping our raid goals in mind. That being said, here are the general steps we take when something drops:
 
-[1] We figure out who most qualifies for it. For this, we immediately reference our loot priority document linked above.
-[2] Amongst that group of people, we figure out who needs it, i.e. who it would be an upgrade for.
+[1] We figure out who most qualifies for it. For this, we immediately reference our loot priority document linked above. <br />
+[2] Amongst that group of people, we figure out who needs it, i.e. who it would be an upgrade for. <br />
 [3] At this point, we ask those people to roll for the item (69 = 101), unless one of these rules comes into play:
 
 **Rule of Progress:** It's an item that seriously impacts our overall raid progression and needs to go to someone specific for reasons made public. This is where most 'tank funneling' happens. <br />
