@@ -6,6 +6,8 @@
 
 // SET SASS VARS BEFORE IMPORTS HERE //
 
+// Colour palette uses light blue: #0092ca and green: #006166
+
 // Titles, SubTitle, and Top Menu link color
 $masthead-link-color: #ffffff;
 $masthead-link-color-hover: #ffffff;
@@ -48,6 +50,6 @@ h2, h3, h4, h5, h6 {
 
 // Set Top Menu Link underline color
 .greedy-nav .visible-links a:before {
-	background: #000;
-	background-color: #000;
+	background: #006166;
+	background-color: #006166;
 }
