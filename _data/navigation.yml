@@ -1,3 +1,7 @@
+main:
+  - title: "Our Discord"
+    url: https://discord.gg/zrBSCXh
+
 sidemenu:
   - title: "General"
     children:

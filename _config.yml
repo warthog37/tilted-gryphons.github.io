@@ -6,7 +6,27 @@ locale                   : "en-US"
 title                    : "Tilted Gryphons"
 title_separator          : "-"
 subtitle                 : "A US-Pagle Alliance Guild"
+url                      : https://tilted-gryphons.github.io/
+repository               : "Tilted-Gryphons/tilted-gryphons.github.io"
 search                   : false
+  
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
 
 # Reading Files
 include:
@@ -41,6 +61,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-target-blank
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -50,3 +71,4 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-target-blank
