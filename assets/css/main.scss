@@ -7,6 +7,9 @@
 .nav__sub-title {
   color: #0092ca
 }
+.h3 {
+  color: #0092ca
+}
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
