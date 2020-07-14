@@ -1,5 +1,5 @@
 ---
-title: WELCOME
+title: Welcome!
 layout: single
 classes: 
   - wide
@@ -7,7 +7,7 @@ classes:
 sidebar:
   nav: "sidemenu"
 ---
-We are currently in the process of moving all of our guild infos here!
+![Tilted Gryphons kill Nefarian](/assets/images/tg_nef_kill.jpg)
 
 If you run into any problems, missing items, whatever... Please contact Hatredcopter on discord:
 
