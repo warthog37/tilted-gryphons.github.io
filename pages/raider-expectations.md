@@ -4,7 +4,7 @@ title: Raider Expectations
 If we left everything up to luck or a magic 8-ball, we'd never get anywhere. Read this information so that you aren't left guessing about what's expected of you, and if you have a question, ***ASK IT!***
 
 ### Attendance
-We require you to maintain 75% attendance. We recognise that real life happens and that sometimes you won’t be able to make a raid.
+We require you to maintain 75% [attendance](https://docs.google.com/spreadsheets/d/177cdGkRlzIuB7uNDkvu6BLzvX5bJ78070ZargMugxVo/edit#gid=0). We recognise that real life happens and that sometimes you won’t be able to make a raid.
 It isn’t a big deal, just sign up with the absent role **_and_** send your Class Lead, Rothana, or Kanute a quick direct message on Discord to let them know the basics of what’s up. (Roth and Kanute do the attendance sheet.)
 
 This is a courtesy that we do expect you to extend to the officers who are volunteering a lot of their time to keep the guild running so that we can all raid. Give us information to work with, and don't leave 39 other people wondering if you're okay.
