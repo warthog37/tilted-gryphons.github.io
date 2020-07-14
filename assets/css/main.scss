@@ -6,7 +6,7 @@
   
 // Top Bar
 .masthead {
-  background-color: #00FF00;
+  background-color: #FF0000;
 }
 #site-nav {
   background-color: #0092ca;
@@ -14,10 +14,10 @@
 
 // Titles and Headers
 .greedy-nav a.site-title {
-  color: #ffffff
+  color: #ffffff;
 }
-.greedy-nav masthead__menu-item {
-  color: #ffffff
+.greedy-nav a.masthead__menu-item {
+  color: #ffffff;
 }
 .nav__sub-title {
   color: #006166;
