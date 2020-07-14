@@ -3,12 +3,12 @@
 ---
 
 @charset "utf-8";
-
+  
 // Top Bar
 .masthead {
   background-color: #0092ca
 }
-.greedy-nav {
+.masthead__inner-wrap {
   background-color: #0092ca
 }
 
@@ -17,7 +17,7 @@
   color: #006166
 }
 h1 {
-  color: #0074a0
+  color: #006166
 }
 h2, h3, h4, h5, h6 {
   color: #0092ca
