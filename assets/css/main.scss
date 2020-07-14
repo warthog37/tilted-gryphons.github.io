@@ -6,7 +6,7 @@
   
 // Top Bar
 .masthead {
-  background-color: #FFFF00;
+  background-color: #0092ca;
 }
 #site-nav {
   background-color: #0092ca;
@@ -30,7 +30,7 @@ h2, h3, h4, h5, h6 {
 
 // Links
 $link-color: #006166;
-$link-color-hover: #006166;
+$link-color-hover: #0092ca;
 $link-color-visited: #006166;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
