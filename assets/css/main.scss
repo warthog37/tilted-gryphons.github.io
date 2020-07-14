@@ -12,6 +12,9 @@
 $masthead-link-color: #ffffff;
 $masthead-link-color-hover: #ffffff;
 
+// Footer background colour
+$footer-background-color: #0092ca;
+
 // Links
 $link-color: #006166;
 $link-color-hover: #0092ca;
@@ -61,5 +64,5 @@ h2, h3, h4, h5, h6 {
 // Set Top Menu Link underline color
 .greedy-nav .visible-links a:before {
 	background: #ffffff;
-	background-color: #00ffff;
+	background-color: #0000ff;
 }
