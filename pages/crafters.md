@@ -14,50 +14,50 @@ DM an officer (but realistically probably Rothana) on Discord to get yourself ad
 **Fiery:** Taicelynn, Badasz, Phey <br />
 **Icy:** Phey <br />
 **Unholy:** Phey <br />
-**+55 Healing:** Badasz <br />
-**+30 Spell Power:** Badasz <br />
-**+7 Frost Damage:** Healthpack <br />
-**+22 Int:** Phey <br />
-**+15 Agi:** Badasz, Phey <br />
-**+20 Spirit:** Phey <br />
-**+15 Str:** Phey <br />
-**+5 Dmg:** Phey <br />
+**55 Healing:** Badasz <br />
+**30 Spell Power:** Badasz <br />
+**7 Frost Damage:** Healthpack <br />
+**22 Int:** Phey <br />
+**15 Agi:** Badasz, Phey <br />
+**20 Spirit:** Phey <br />
+**15 Str:** Phey <br />
+**5 Dmg:** Phey <br />
 
 ### Shields
-**+7 Stam:** Healthpack <br />
+**7 Stam:** Healthpack <br />
 **Frost Resist:** Healthpack <br />
 
 ### Chest
-**+4 Stats:** Badasz <br />
-**+3 Stats:** Taicelynn, Phey <br />
-**+100 Health:** Badasz, Phey <br />
-**+100 Mana:** Badasz, Phey <br />
+**4 Stats:** Badasz <br />
+**3 Stats:** Taicelynn, Phey <br />
+**100 Health:** Badasz, Phey <br />
+**100 Mana:** Badasz, Phey <br />
 
 ### Bracers
 **4pm5:** Taicelynn, Badasz, Phey <br />
-**+24 Healing:** Taicelynn, Badasz <br />
-**+7 Int:** Healthpack, Badasz, Phey <br />
-**+9 Str:** Badasz, Phey, Taicelynn <br />
-**+9 Stam:** Badasz, Phey <br />
-**+9 Spirit:** Badasz, Phey <br />
+**24 Healing:** Taicelynn, Badasz <br />
+**7 Int:** Healthpack, Badasz, Phey <br />
+**9 Str:** Badasz, Phey, Taicelynn <br />
+**9 Stam:** Badasz, Phey <br />
+**9 Spirit:** Badasz, Phey <br />
 
 ### Gloves
-**+7 Agi:** Taicelynn, Badasz, Phey <br />
-**+7 Str:** Phey, Badasz <br />
+**7 Agi:** Taicelynn, Badasz, Phey <br />
+**7 Str:** Phey, Badasz <br />
 **Riding:** Taicelynn, Badasz, Phey <br />
 
 ### Boots
-**+7 Agi:** Taicelynn, Badasz, Phey <br />
+**7 Agi:** Taicelynn, Badasz, Phey <br />
 **Minor Run Speed:** Taicelynn, Badasz, Phey <br />
 
 ### Cloak
-**+5 All Resists:** Healthpack, Taicelynn, Badasz, Phey <br />
-**+3 Agi:** Badasz, Phey <br />
-**+7 Fire Resist:** Badasz, Phey <br />
-**+15 Nature Resist:** 
+**5 All Resists:** Healthpack, Taicelynn, Badasz, Phey <br />
+**3 Agi:** Badasz, Phey <br />
+**7 Fire Resist:** Badasz, Phey <br />
+**15 Nature Resist:** 
 
 ## Alchemists
-[Enchanting](#enchanting) | [Blacksmithing](#blacksmiths) | [Engineering](#engineers) | [Leatherworking](#leatherworkers) | [Tailoring](#tailors) <br />
+[Enchanting](#enchanters) | [Blacksmithing](#blacksmiths) | [Engineering](#engineers) | [Leatherworking](#leatherworkers) | [Tailoring](#tailors) <br />
 • Litoses has everything and Roth has most things.
 
 ### Flasks
@@ -83,7 +83,7 @@ DM an officer (but realistically probably Rothana) on Discord to get yourself ad
 **Gurubashi Mojo Madness:** Litoses, Rothana <br />
 
 ## Blacksmiths
-[Enchanting](#enchanting) | [Alchemy](#alchemists) | [Engineering](#engineers) | [Leatherworking](#leatherworkers) | [Tailoring](#tailors) <br />
+[Enchanting](#enchanters) | [Alchemy](#alchemists) | [Engineering](#engineers) | [Leatherworking](#leatherworkers) | [Tailoring](#tailors) <br />
 **Elemental Sharpening Stone:** Damebesitos, Catlordx <br />
 **Lionheart Helm:** Damebesitos <br />
 dark iron gear?
@@ -97,13 +97,13 @@ dark iron gear?
 **Arcanite Dragonling:** Kanute <br />
 
 ## Leatherworkers
-[Enchanting](#enchanting) | [Alchemy](#alchemists) | [Blacksmithing](#blacksmiths) | [Engineering](#engineers) | [Tailoring](#tailors) <br />
+[Enchanting](#enchanters) | [Alchemy](#alchemists) | [Blacksmithing](#blacksmiths) | [Engineering](#engineers) | [Tailoring](#tailors) <br />
 **Devilsaur Legs:** Reohaiko, Hatredcopter <br />
 **Devilsaur Gloves:** Reohaiko, Hatredcopter <br />
 nature resist gear?
 
 ## Tailors
-[Enchanting](#enchanting) | [Alchemy](#alchemists) | [Blacksmithing](#blacksmiths) | [Engineering](#engineers) | [Leatherworking](#leatherworkers) <br />
+[Enchanting](#enchanters) | [Alchemy](#alchemists) | [Blacksmithing](#blacksmiths) | [Engineering](#engineers) | [Leatherworking](#leatherworkers) <br />
 **Flarecore Set:** Phey <br />
 **Bloodvine Set:** Mystic, Phey <br />
 **Felcloth Set:** Deitz, Phey <br />
