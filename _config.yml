@@ -35,8 +35,6 @@ kramdown:
 # Reading Files
 include:
   - pages
-exclude:
-  - _layout/default.html
 
 # Defaults
 defaults:
