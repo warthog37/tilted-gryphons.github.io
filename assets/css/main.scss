@@ -25,11 +25,8 @@ h2, h3, h4, h5, h6 {
 
 // Links
 a:link {
-  color: #0074a0
+  color: #006166
 }
-a:hover {
-  color: #004346
-}    
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
