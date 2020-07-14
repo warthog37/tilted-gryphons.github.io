@@ -100,7 +100,9 @@ dark iron gear?
 [Enchanting](#enchanters) | [Alchemy](#alchemists) | [Blacksmithing](#blacksmiths) | [Engineering](#engineers) | [Tailoring](#tailors) <br />
 **Devilsaur Legs:** Reohaiko, Hatredcopter <br />
 **Devilsaur Gloves:** Reohaiko, Hatredcopter <br />
-nature resist gear?
+**Sandstalker Bracers:** Hatredcopter <br />
+**Sandstalker Gauntlets:** Hatredcopter <br />
+**Sandstalker Breastplate:** <br />
 
 ## Tailors
 [Enchanting](#enchanters) | [Alchemy](#alchemists) | [Blacksmithing](#blacksmiths) | [Engineering](#engineers) | [Leatherworking](#leatherworkers) <br />
