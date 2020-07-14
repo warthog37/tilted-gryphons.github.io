@@ -1,7 +1,7 @@
 ---
 title: Recruit Information
 ---
-Although we do not have a great many casual players, anyone is welcome to join the guild. Our requirements are simple: < br/>
+Although we do not have a great many casual players, anyone is welcome to join the guild. Our requirements are simple: <br />
 • You need to be over 18. <br />
 • Don't be crass, vile, or toxic. <br />
 We want to create and maintain a friendly guild that everyone is proud to be a part of. Be conscious that you have our guild name above your head when you're out in the world. We want members who are as courteous to a random stranger as they are to their guildmates.
