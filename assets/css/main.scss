@@ -6,27 +6,29 @@
   
 // Top Bar
 .masthead {
-  background-color: #0092ca
+  background-color: #0092ca;
 }
 #site-nav {
   background-color: #0092ca;
-  color: #ffffff
 }
 
 // Titles and Headers
+.site-title {
+  color: #ffffff
+}
 .nav__sub-title {
-  color: #006166
+  color: #006166;
 }
 h1 {
-  color: #006166
+  color: #006166;
 }
 h2, h3, h4, h5, h6 {
-  color: #0092ca
+  color: #0092ca;
 }
 
 // Links
 a:link {
-  color: #006166
+  color: #006166;
 }
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
