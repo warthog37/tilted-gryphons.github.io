@@ -13,7 +13,7 @@ $masthead-link-color: #ffffff;
 $masthead-link-color-hover: #ffffff;
 
 // Footer background colour
-$footer-background-color: #0092ca;
+$footer-background-color: #0092ca; //grrrrr doesn't work either help!
 
 // Links
 $link-color: #006166;
@@ -41,10 +41,10 @@ $link-color-visited: #006166;
   background-color: #0092ca;
 }
 
-// Bar just above the footer
+/* Bar just above the footer ...temporary trying to get this to work...
 #footer.page__footer {
   background-color: #0092ca;
-}
+} */
 
 // Left menu title color
 .nav__sub-title {
@@ -64,5 +64,5 @@ h2, h3, h4, h5, h6 {
 // Set Top Menu Link underline color
 .greedy-nav .visible-links a:before {
 	background: #ffffff;
-	background-color: #0000ff;
+	background-color: #ffffff;
 }
