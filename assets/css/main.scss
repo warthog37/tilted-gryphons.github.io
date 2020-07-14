@@ -4,12 +4,24 @@
 
 @charset "utf-8";
 
+// Titles and Headers
 .nav__sub-title {
   color: #00ca5f
 }
-h3 {
+h1 {
+  color: #0074a0
+}
+h2, h3, h4, h5, h6 {
   color: #0092ca
 }
+
+// Links
+a:link {
+  color: #0074a0
+}
+a:hover {
+  color: #004346
+}    
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
