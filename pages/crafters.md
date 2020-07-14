@@ -89,7 +89,7 @@ DM an officer (but realistically probably Rothana) on Discord to get yourself ad
 dark iron gear?
 
 ## Engineers
-[Enchanting](#enchanting) | [Alchemy](#alchemists) | [Blacksmithing](#blacksmiths) | [Leatherworking](#leatherworkers) | [Tailoring](#tailors) <br />
+[Enchanting](#enchanters) | [Alchemy](#alchemists) | [Blacksmithing](#blacksmiths) | [Leatherworking](#leatherworkers) | [Tailoring](#tailors) <br />
 **Biznicks 247x128 Accurascope (3% ranged hit):** Kanute, Rothana <br />
 **Sniper Scope (+7 dmg):** Kanute, Rothana <br />
 **Force Reactive Disk:** Kanute <br />
