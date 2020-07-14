@@ -5,13 +5,16 @@
 @charset "utf-8";
 
 // Top Bar
-.masthead, .greedy-nav {
+.masthead {
+  background-color: #0092ca
+}
+.greedy-nav {
   background-color: #0092ca
 }
 
 // Titles and Headers
 .nav__sub-title {
-  color: #004346
+  color: #006166
 }
 h1 {
   color: #0074a0
