@@ -1,6 +1,6 @@
 main:
   - title: "Our Discord"
-    url: https://discord.gg/zrBSCXh
+    url: https://tiltedgryphons.com
 
 sidemenu:
   - title: "General"
@@ -43,5 +43,4 @@ sidemenu:
         url: https://docs.google.com/spreadsheets/d/1g55ECv4otHwXltLPG1cHLhhDT_SjbTNCNW1OR-rnOCg/edit#gid=344121430
       - title: "Suggestion Box"
         url: https://forms.gle/DWDiP5uZ4MqrgdZe7
-      - <a href="google.com" target="_blank">Test</a>
 
