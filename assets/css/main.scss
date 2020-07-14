@@ -6,13 +6,16 @@
   
 // Top Bar
 .masthead {
-  background-color: #0000FF;
+  background-color: #00FF00;
 }
 #site-nav {
   background-color: #0092ca;
 }
 
 // Titles and Headers
+.greedy-nav a.site-title {
+  color: #ffffff
+}
 .site-title {
   color: #ffffff
 }
