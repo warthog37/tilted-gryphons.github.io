@@ -35,6 +35,8 @@ kramdown:
 # Reading Files
 include:
   - pages
+exclude:
+  - _layout/default.html
 
 # Defaults
 defaults:
@@ -72,6 +74,7 @@ plugins:
   # MMistakes Rec
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-include-cache
   - jemoji
   - Kramdown
   # Extra
@@ -91,6 +94,7 @@ whitelist:
   # MMistakes Rec
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-include-cache
   - jemoji
   - Kramdown
   # Extra
