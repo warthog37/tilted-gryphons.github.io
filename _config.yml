@@ -9,6 +9,9 @@ subtitle                 : "A US-Pagle Alliance Guild"
 url                      : https://tilted-gryphons.github.io/
 repository               : "Tilted-Gryphons/tilted-gryphons.github.io"
 search                   : false
+
+head_scripts:
+  - /assets/js/links.js
   
 # Conversion
 markdown: kramdown
@@ -55,20 +58,38 @@ timezone: America/New_York
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+  # Github Pages defaults, can't be disabled!
+  - jekyll-coffeescript
+  - jekyll-default-layout
   - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
+  # MMistakes Rec
+  - jekyll-sitemap
   - jekyll-feed
   - jemoji
-  - jekyll-include-cache
-  - jekyll-target-blank
+  - Kramdown
+  # Extra
 
 # mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
+  # Github Pages defaults, can't be disabled!
+  - jekyll-coffeescript
+  - jekyll-default-layout
   - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
+  # MMistakes Rec
+  - jekyll-sitemap
   - jekyll-feed
   - jemoji
-  - jekyll-include-cache
-  - jekyll-target-blank
+  - Kramdown
+  # Extra
