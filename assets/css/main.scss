@@ -3,35 +3,51 @@
 ---
 
 @charset "utf-8";
-  
-// Top Bar
-.masthead {
-  background-color: #0092ca;
-}
-#site-nav {
-  background-color: #0092ca;
-}
 
-// Titles and Headers
+// SET SASS VARS BEFORE IMPORTS HERE //
+
+// Titles, SubTitle, and Top Menu link color
 $masthead-link-color: #ffffff;
 $masthead-link-color-hover: #ffffff;
-.greedy-nav a.site-title {
-  color: #ffffff;
-}
-.nav__sub-title {
-  color: #006166;
-}
-h1 {
-  color: #006166;
-}
-h2, h3, h4, h5, h6 {
-  color: #0092ca;
-}
 
 // Links
 $link-color: #006166;
 $link-color-hover: #0092ca;
 $link-color-visited: #006166;
 
+// THEME IMPORTS //
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// CSS OVERRIDES GO HERE //
+
+// Top Bar
+.masthead {
+  background-color: #0092ca;
+}
+
+// Area around Top Bar
+#site-nav {
+  background-color: #0092ca;
+}
+
+// Left menu title color
+.nav__sub-title {
+  color: #006166;
+}
+
+// Heading 1
+h1 {
+  color: #006166;
+}
+
+// Headings 2,3,4,5,6
+h2, h3, h4, h5, h6 {
+  color: #0092ca;
+}
+
+// Set Top Menu Link underline color
+.greedy-nav .visible-links a:before {
+	background: #000;
+	background-color: #000;
+}
