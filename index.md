@@ -11,5 +11,5 @@ We are currently in the process of moving all of our guild infos here but until 
 
 If you run into any problems, missing items, whatever... Please contact Hatredcopter on discord:
 
-digitalnyx#6632
+**digitalnyx#6632**
 
