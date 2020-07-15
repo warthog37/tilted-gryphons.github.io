@@ -1,29 +1,34 @@
 ---
 title: Hatred's AQ 40 Notes
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+toc_sticky: true
 ---
 ### Skeram Trash
 **Obsidian Eradicator**
 * Kill before mana is fully recharged or does massive AoE
-  * Safest to engage only one at a time
-* Anubisath Sentinel
-	* Packs of 4
-	* Each has a unique ability (one of)
-	  * Reflect Shadow and Frost
-		* Reflect Fire and Arcane
-		* Mending HoT
-		* Mortal Strike
-		* Thorns
-		* Taunt-immune and Knockback
-		* Shadowbolt Volley
-		* Mana Burn
-		* Thunderclap
-	* When one dies the remaining mobs are healed and inherit the dead mob's ability
-	* Kill Order
-		1. Reflections
-		2. Mending
-		3. Mortal Strike, Taunt-immune
-		4. Thorns/Thunderclap/Mana Burn
-		5. Shadowbolt Volley
+	* Safest to engage only one at a time
+	
+**Anubisath Sentinel**
+* Packs of 4
+* Each has a unique ability (one of)
+	* Reflect Shadow and Frost
+	* Reflect Fire and Arcane
+	* Mending HoT
+	* Mortal Strike
+	* Thorns
+	* Taunt-immune and Knockback
+	* Shadowbolt Volley
+	* Mana Burn
+	* Thunderclap
+* When one dies the remaining mobs are healed and inherit the dead mob's ability
+* Kill Order
+	1. Reflections
+	2. Mending
+	3. Mortal Strike, Taunt-immune
+	4. Thorns/Thunderclap/Mana Burn
+	5. Shadowbolt Volley
 			
 ### Skeram
 

@@ -1,11 +1,17 @@
 ---
 title: Private Server General
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+toc_sticky: true
 ---
 **Please read the instructions through once before beginning!**
 
 We have tested this old client and it has bugs! These instructions, if followed, will help you avoid most common issues entirely!
 
 ## Getting Started
+
+### Download Client
 * [Create an Account](http://54.172.9.103/)
 * Download the client for your PC
   * [Windows Client](https://drive.google.com/file/d/1KvKwGyeNcCEJEOeMhtYAgTQAg0Ih9asS/view?usp=sharing)
@@ -13,7 +19,8 @@ We have tested this old client and it has bugs! These instructions, if followed,
   
 *The realmlist is already set in these clients but if you already have a client set your realmlist to: 54.172.9.103*
 
-## Run Your Client
+
+### Run Your Client
 * Unzip your client anywhere you like, just remember where it is!
 * Run WoW on Microsoft Windows
   * Simply Run WoW.exe
@@ -24,20 +31,20 @@ We have tested this old client and it has bugs! These instructions, if followed,
 * If asked to update hardware changes I recommend choosing 'No'
 * Under Addons choose 'Enable out of date addons'
 
-## Windows Bug Alert (Black Screen)!
+### :skull: Windows Bug Alert (Black Screen)!
 * Exit the client, do not create a character yet!
 * In your WoW client directory, open the file **WTF\Config** with notepad
 * At the bottom of the file, on a new line, add the entry
 * ```SET gxWindow "1"```
 * Save and exit the file
 
-## Create Your Character
+### Create Your Character
 * Start your client
 * Create your character
 * After first login, exit client and restart
  * this is a required step to update your stats after getting instant 60!
  
-## Change Your Graphics Settings
+### Change Your Graphics Settings
 * Hit Escape -> Video Settings
 * If you monitor has a resolution greater than 1080p you will need to play in windowed mode!
   * Choose windowed mode and clicl 'apply'
@@ -47,7 +54,7 @@ We have tested this old client and it has bugs! These instructions, if followed,
 * All other settings are personal pref, I always disable 'full screen glow' shader
 * Click 'apply'
  
-## QoL Interface Settings
+### QoL Interface Settings
  * Hit Escape -> Interface Options -> Basic Tab
    * Adjust Mouse sensitivity if needed
    * Select Auto Self Cast
@@ -62,7 +69,7 @@ We have tested this old client and it has bugs! These instructions, if followed,
    * Under Raid and Party select Show Target of Target: Always
    * All other options here are personal pref
  
-## Gearing Up
+### Gearing Up
  * There are vendors behind where you first zone into Ironforge
   1. Train your weapons at the guy who looks like Herod
   2. Train and buy a mount from the Pack Mule
@@ -72,7 +79,7 @@ We have tested this old client and it has bugs! These instructions, if followed,
   6. Goblins near the Mule do librams/enchants
   7. Pick up consumes and professions from the second pair of goblins
 
-## Tips
+### Tips
 * Ony bags can be purchased from the 'Miscellaneous' Goblin
 * Filter out unavailable skills at your trainer so you can spam-click learn
 

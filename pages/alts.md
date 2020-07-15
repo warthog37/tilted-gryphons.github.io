@@ -1,5 +1,6 @@
 ---
 title: All about Alts
+classes: wide
 ---
 **TLDR:** If you are a core raider, you may post your alt application in the #alt-applications channel and wait for your main CL and your alt CL to both add any reaction icon other than a red X to approve your alt. Your alt and main must be logged at the instance entrance, and you must be prepared to raid on either character as the raid composition requires, or by whim of either of your CLs.
 

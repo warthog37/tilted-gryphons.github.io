@@ -1,7 +1,7 @@
 main:
-  - title: "Our Discord"
+  - title: "Discord"
     url: https://tiltedgryphons.com
-  - title: "Our Logs"
+  - title: "Logs"
     url: https://classic.warcraftlogs.com/guild/rankings/478194/latest/
 
 sidemenu:

@@ -1,5 +1,6 @@
 ---
 title: Tilted Gryphons Structure and Officers
+classes: wide
 ---
 **_Tilted Gryphons_** is a [semicore](/pages/semicore) PvE Alliance guild playing on the North American server Pagle. <br />
 

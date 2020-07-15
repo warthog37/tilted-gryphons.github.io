@@ -1,13 +1,18 @@
 ---
 title: pserver Addons and Macros
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+toc_sticky: true
 ---
 **Classic Macros and Addons WILL NOT WORK on the old client!!!**
 
 ## Macros
 
+### Giant Macro Database
 [Huge list of Vanilla Macros](https://github.com/Meridaw/Vanilla-Macros)
 
-#### Useful Macros
+### Useful Macros
 Start Attack, does not show CDs or tooltip so I recommend using it on one ability you always use first, like Sunder Armor
 ```
 /script if (not PlayerFrame.inCombat) then AttackTarget() end
@@ -18,19 +23,37 @@ Max Zoom Camera, have to run each time you log in
 /console CameraDistanceMaxFactor 5
 ```
 
-## Addons
+## Addon Packs
 
+### :fire: TG Addon Pack :fire:
 [TG Addon Pack](https://drive.google.com/file/d/1RUKyIFiqlVsYhRpcENhBxyLBiNzpZdmn/view?usp=sharing)
 
-*Delete your addons folder if you have an older pack! This has improved versions of some addons!*
+Delete your addons folder if you have an older pack! This has improved versions of some addons! 
+{: .notice--warning}
 
-*If you want an all-in-one solution like elvUI, scroll down to 'other resources'*
+### elvUI-like Alternative
+[pfUI](https://legacy-wow.com/vanilla-addons/pfui/)
 
-### Addons in TG pack and their basic use
+## Other Resources
 
-*Feel free to disable addons your class does not need!*
+[Nice DB of Addons for 1.12.1](http://www.vanilla-addons.com/)
 
-#### AttackBar (Melee / Hunters)
+[List of Github-hosted Addons](https://forum.twinstar.cz/threads/github-list-of-vanilla-addons-1-12-1.123906/) 
+
+Be sure to remove the '-Master' part of the file if you download a zip here! 
+{: .notice--warning}
+
+## Honorable Mentions
+
+[Bartender2](https://legacy-wow.com/vanilla-addons/bartender-2/) - If you need a bar mod
+
+## TG Addon Pack Usage
+
+Feel free to disable addons your class does not need! 
+{: .notice--info}
+
+### AttackBar (Melee & Hunters)
+
 ```
 # Menu
 /abar
@@ -168,16 +191,3 @@ Taunt/Kick announcer
 /tb
 ```
 
-## Other Resources
-
-[Nice DB of Addons for 1.12.1](http://www.vanilla-addons.com/)
-
-[List of Github-hosted Addons](https://forum.twinstar.cz/threads/github-list-of-vanilla-addons-1-12-1.123906/) 
-
-*Be sure to remove the '-Master' part of the file if you download a zip here!*
-
-### Honorable Mentions
-
-[pfUI](https://legacy-wow.com/vanilla-addons/pfui/) - Somewhat like elvUI
-
-[Bartender2](https://legacy-wow.com/vanilla-addons/bartender-2/) - If you need a bar mod

@@ -1,5 +1,6 @@
 ---
 title: Recruit Information
+classes: wide
 ---
 Although we do not have a great many casual players, anyone is welcome to join the guild. Our requirements are simple: <br />
 • You need to be over 18. <br />

@@ -1,5 +1,9 @@
 ---
 title: Private Server GM Commands
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+toc_sticky: true
 ---
 **Make sure and preface macros with /ra otherwise they will fail when you are dead!**
 

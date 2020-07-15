@@ -1,5 +1,6 @@
 ---
 title: C'Thun Melee Positioning
+classes: wide
 ---
 
 Make sure you are directly in front of the little "closed eye" in your sector during P1!

@@ -1,5 +1,6 @@
 ---
 title: Loot
+classes: wide
 ---
 ### Loot System
 We use a **loot council** which is comprised of the officers/class leads, and two randomly selected raid members each week. These raid members are temporarily promoted to Flightmaster so that they can participate in the loot council via the in-game guild officer chat channel.<br />

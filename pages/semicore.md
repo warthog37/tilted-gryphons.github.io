@@ -1,5 +1,6 @@
 ---
 title: Semicore Defined for Us
+classes: wide
 ---
 
 TLDR; Hardcore guilds require a large time investment outside of raid, Casual guilds require a large timesink in raid. We require very minimal time commitment in both areas achieved by a small amount of preparation. Some of that preparation is on a pserver. If you don’t have time for pserver, you for sure do not have time for actual AQ progression.
