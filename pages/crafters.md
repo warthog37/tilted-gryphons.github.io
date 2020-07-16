@@ -63,26 +63,27 @@ DM an officer (but realistically probably Rothana) on Discord to get yourself ad
 • Litoses has everything and Roth has most things.
 
 ### Flasks
-**Titans:** Litoses  <br />
-**Supreme Power:** Litoses, Rothana, Scorch <br />
-**Distilled Wisdom:** Litoses, Rothana <br />
-**Chromatic Resistance:** Litoses, Rothana
+**Titans:** Litoses, Lumia <br />
+**Supreme Power:** Litoses, Rothana, Scorch, Lumia <br />
+**Distilled Wisdom:** Litoses, Rothana, Lumia <br />
+**Chromatic Resistance:** Litoses, Rothana, Lumia
 
 ### Elixirs
 **Greater Arcane:** Litoses, Rothana <br />
-**Mageblood:** Rothana, Litoses <br />
-**Trollblood:** Rothana, Litoses <br />
-**Mongoose:** Litoses, Rothana, Scorch, Hanzho
+**Mageblood:** Rothana, Litoses, Lumia <br />
+**Trollblood:** Rothana, Litoses, Lumia <br />
+**Mongoose:** Litoses, Rothana, Scorch, Hanzho, Lumia
 
 ### Potions
-**Greater Fire Prot:** Litoses, Rothana <br />
-**Greater Nature Prot:** Rothana, Litoses <br />
-**Greater Frost Prot:** Litoses <br />
-**Greater Stoneshield:** Rothana, Litoses <br />
-**Major Health:** Rothana, Litoses <br />
-**Major Mana:** Rothana, Litoses
+**Greater Fire Prot:** Litoses, Rothana, Lumia <br />
+**Greater Nature Prot:** Rothana, Litoses, Lumia <br />
+**Greater Frost Prot:** Litoses, Lumia <br />
+**Greater Stoneshield:** Rothana, Litoses, Lumia <br />
+**Major Health:** Rothana, Litoses, Lumia <br />
+**Major Mana:** Rothana, Litoses, Lumia <br />
+**Brute Force:** Litoses?
 
-**Gurubashi Mojo Madness:** Litoses, Rothana
+**Gurubashi Mojo Madness:** Litoses, Rothana, Lumia
 
 ## Blacksmiths
 **Elemental Sharpening Stone:** Damebesitos, Catlordx <br />
