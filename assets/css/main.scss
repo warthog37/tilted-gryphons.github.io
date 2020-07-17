@@ -3,75 +3,259 @@
 ---
 
 @charset "utf-8";
-
-// SET SASS VARS BEFORE IMPORTS HERE //
-
-// Colour palette uses light blue: #0092ca and green: #006166
-
-// Titles, SubTitle, and Top Menu link color
-$masthead-link-color: #ffffff;
-$masthead-link-color-hover: #ffffff;
-
-// Footer background colour
-$footer-background-color: #0092ca; //grrrrr doesn't work either help!
-
-// Links
-$link-color: #006166;
-$link-color-hover: #0092ca;
-$link-color-visited: #006166;
-
-// THEME IMPORTS //
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-// CSS OVERRIDES GO HERE //
+///////////// BEGIN GLOBAL /////////////
 
+// TOC Font Size
 .page__content {
   font-size: 18px;
 }
 
+// Main Text Area Font Size
 .sidebar__right {
   font-size: 20px;
 }
 
-/* Main background colour ...temporary not liking the results...
-.initial-content {
-  background-color: #d9e6eb;
-  //background-image: linear-gradient(white, #0092ca 95%);
-} */
+////////////// END GLOBAL //////////////
 
-// Top Bar
-.masthead {
-  background-color: #0092ca;
+///////////// BEGIN LIGHT //////////////
+
+:root {
+  --primary-color: #0092ca; 			// Light Blue
+  --secondary-color: #006166; 			// Green
+  --masthead-text-color: #ffffff; 		// White
 }
 
-// Area around Top Bar
+// Area around Masthead fill color
 #site-nav {
-  background-color: #0092ca;
+	background-color: var(--primary-color);
+}
+	
+// Masthead fill color
+.masthead {
+	background-color: var(--primary-color);
+	border-bottom: 1px var(--primary-color);
 }
 
-/* Bar just above the footer ...temporary trying to get this to work but can't figure it out...
-.page__footer {
-  background-color: #0092ca;
-} */
+// Masthead text color
+.greedy-nav a {
+	color: var(--masthead-text-color);
+}
+
+// Masthead text hover color
+.greedy-nav a:hover {
+	color: var(--masthead-text-color);
+}
+
+// Masthead link underline hover color
+.greedy-nav .visible-links a:before {
+	background: var(--masthead-text-color);
+	background-color: var(--masthead-text-color);
+}
 
 // Left menu title color
 .nav__sub-title {
-  color: #006166;
+	color: var(--secondary-color);
+}
+
+// Remove ghost effect from left menu
+.sidebar {
+	opacity: 1;
 }
 
 // Heading 1
 h1 {
-  color: #006166;
+	color: var(--secondary-color);
 }
 
 // Headings 2,3,4,5,6
 h2, h3, h4, h5, h6 {
-  color: #0092ca;
+	color: var(--primary-color);
 }
 
-// Set Top Menu Link underline color
-.greedy-nav .visible-links a:before {
-	background: #ffffff;
-	background-color: #ffffff;
+// Footer color
+.page__footer {
+	background-color: var(--primary-color);
 }
+
+// Footer text color
+.page__footer {
+	color: var(--masthead-text-color) !important;
+}
+
+////////////// END LIGHT ///////////////
+
+////////////// BEGIN DARK //////////////
+@media (prefers-color-scheme: dark) {  
+
+	:root {
+	  --primary-color: orange;
+	  --secondary-color: purple;
+	  --masthead-text-color: brown;
+	  --content-separator-color: green;
+	  --content-bg-color: red;
+	  --content-text-color: yellow;
+	  --code-bg-color: blue;
+	  --code-text-color: white;
+	  --code-small-bg-color: #ABC;
+	  --toc-highlight-color: pink;
+	  --notice-color: white;
+	  --notice-bg-color: black;
+	  --notice-primary-color: white;
+	  --notice-primary-bg-color: black;
+	  --notice-info-color: white;
+	  --notice-info-bg-color: black;
+	  --notice-warning-color: white;
+	  --notice-warning-bg-color: black;
+	  --notice-success-color: white;
+	  --notice-success-bg-color: black;
+	  --notice-danger-color: white;
+	  --notice-danger-bg-color: black;
+	}
+	
+	body {
+		background-color: var(--content-bg-color);
+		color: var(--content-text-color);
+	}
+
+	// Area around Masthead fill color
+	#site-nav {
+		background-color: var(--primary-color);
+	}
+		
+	// Masthead fill color
+	.masthead {
+		background-color: var(--primary-color);
+		border-bottom: 1px var(--primary-color);
+	}
+
+	// Masthead text color
+	.greedy-nav a {
+		color: var(--masthead-text-color);
+	}
+
+	// Masthead text hover color
+	.greedy-nav a:hover {
+		color: var(--masthead-text-color);
+	}
+
+	// Masthead link underline hover color
+	.greedy-nav .visible-links a:before {
+		background: var(--masthead-text-color);
+		background-color: var(--masthead-text-color);
+	}
+
+	// Left menu title color
+	.nav__sub-title {
+		color: var(--secondary-color);
+	}
+	
+	// Left menu separator color
+	.nav__sub-title {
+		border-bottom: 1px solid var(--content-separator-color); //cecfd1
+	}
+	
+	// Remove ghost effect from left menu
+	.sidebar {
+		opacity: 1;
+	}
+
+	// Heading 1
+	h1 {
+		color: var(--secondary-color);
+	}
+
+	// Headings 2,3,4,5,6
+	h2, h3, h4, h5, h6 {
+		color: var(--primary-color);
+	}
+	
+	// Content heading separator color
+	.page__content h2 {
+		border-bottom: 1px solid var(--content-separator-color);
+	}
+	
+	// Code area colors
+	div.highlighter-rouge, figure.highlight {
+		background: var(--code-bg-color);
+		color: var(--code-text-color);
+	}
+	
+	// Code area small color
+	p > code, a > code, li > code, figcaption > code, td > code {
+		background: var(--code-small-bg-color);
+	}
+	
+	// Notice colors
+	.notice {
+		color: var(--notice-color);
+		background-color: var(--notice-bg-color);
+	}
+	
+	.notice--primary {
+		color: var(--notice-primary-color);
+		background-color: var(--notice-primary-bg-color);
+	}
+	
+	.notice--info {
+		color: var(--notice-info-color);
+		background-color: var(--notice-info-bg-color);
+	}
+	
+	.notice--warning {
+		color: var(--notice-warning-color);
+		background-color: var(--notice-warning-bg-color);
+	}
+	
+	.notice--success {
+		color: var(--notice-success-color);
+		background-color: var(--notice-success-bg-color);
+	}
+	
+	.notice--danger {
+		color: var(--notice-danger-color);
+		background-color: var(--notice-danger-bg-color);
+	}
+	
+	// TOC colors
+	.toc {
+		//color: #c792ea;
+		background-color: var(--content-bg-color);
+		border: 1px solid var(--content-separator-color);
+	}
+	
+	// TOC Title colors
+	.toc .nav__title {
+		color: var(--masthead-text-color);
+		background: var(--primary-color);
+	}
+	
+	// TOC link colors
+	.toc__menu a {
+		color: var(--content-text-color);
+		border-bottom: 1px solid var(--content-separator-color);
+	}
+	
+	.toc a:hover {
+		color: var(--content-text-color);
+	}
+	
+	// TOC link active colors
+	.toc .active a {
+		background-color: var(--toc-highlight-color);
+		color: var(--masthead-text-color);
+	}
+	
+	// Footer color
+	.page__footer {
+		background-color: var(--primary-color);
+	}
+	
+	// Footer text color
+	.page__footer {
+		color: var(--masthead-text-color) !important;
+	}
+
+} ////////////// END DARK ///////////////
