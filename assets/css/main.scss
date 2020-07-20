@@ -91,16 +91,16 @@ h2, h3, h4, h5, h6 {
 @media (prefers-color-scheme: dark) {  
 
 	:root {
-	  --primary-color: #0092ca;
-	  --secondary-color: #006166;
-	  --masthead-text-color: #FFFFFF;
-	  --content-separator-color: #dcddde;
-	  --content-bg-color: #36393f;
-	  --content-text-color: #dcddde;
-	  --code-bg-color: #2f3136;
-	  --code-text-color: #a6aab0;
-	  --code-small-bg-color: #2f3136;
-	  --toc-highlight-color: #005f84;
+	  --primary-color: #0092ca;           // header blue
+	  --secondary-color: #49a8ad;         // green - light variant
+	  --masthead-text-color: #FFFFFF;     // white
+	  --content-separator-color: #dcddde; // light grey
+	  --content-bg-color: #36393f;        // dark grey
+	  --content-text-color: #dcddde;      // light grey
+	  --code-bg-color: #2f3136;           // darkest grey
+	  --code-text-color: #a6aab0;         // medium grey
+	  --code-small-bg-color: #2f3136;     // darkest grey
+	  --toc-highlight-color: #005f84;     // dark header blue
 	  --notice-color: white;
 	  --notice-bg-color: black;
 	  --notice-primary-color: white;
