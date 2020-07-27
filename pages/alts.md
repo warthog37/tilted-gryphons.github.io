@@ -18,3 +18,4 @@ classes: wide
 - Everyone needs to apply to bring their alt.
 - Your alt doesn't have to be in guild, but it is preferred.
 - Sub/Casual, Friends-n-Family, and all Alt Characters are **_not eligible_** for the guild’s free enchant service.
+- Alt loot priority is pretty low, review the general loot prio on the [loot](/pages/loot/) page.
