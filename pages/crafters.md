@@ -13,51 +13,56 @@ DM an officer (but realistically probably Rothana) on Discord to get yourself ad
 ## Enchanters
 
 ### Weapons
-**Crusader:** Badasz, Phey, Taicelynn <br />
-**Fiery:** Taicelynn, Badasz, Phey <br />
-**Icy:** Phey <br />
-**Unholy:** Phey <br />
+**Crusader:** Badasz, Phey, Taicelynn, Alister <br />
+**Fiery:** Taicelynn, Badasz, Phey, Alister <br />
+**Icy:** Phey, Alister <br />
+**Unholy:** Phey, Alister <br />
 **55 Healing:** Badasz <br />
-**30 Spell Power:** Badasz <br />
-**7 Frost Damage:** Healthpack <br />
+**30 Spell Power:** Badasz, Alister <br />
+**7 Frost Damage:** Healthpack, Alister <br />
 **22 Int:** Phey <br />
-**15 Agi:** Badasz, Phey <br />
+**15 Agi:** Badasz, Phey, Alister <br />
 **20 Spirit:** Phey <br />
 **15 Str:** Phey <br />
-**5 Dmg:** Phey
+**5 Dmg:** Phey, Alister
+
+### Oils
+**Mana Oil:** Alister <br />
+**Wizard Oil:** Alister
 
 ### Shields
-**7 Stam:** Healthpack <br />
-**Frost Resist:** Healthpack
+**7 Stam:** Healthpack, Alister <br />
+**Frost Resist:** Healthpack, Alister <br />
+**2% Shield Block** Alister
 
 ### Chest
 **4 Stats:** Badasz <br />
-**3 Stats:** Taicelynn, Phey <br />
-**100 Health:** Badasz, Phey <br />
-**100 Mana:** Badasz, Phey
+**3 Stats:** Taicelynn, Phey, Alister <br />
+**100 Health:** Badasz, Phey, Alister <br />
+**100 Mana:** Badasz, Phey, Alister
 
 ### Bracers
-**4pm5:** Taicelynn, Badasz, Phey <br />
-**24 Healing:** Taicelynn, Badasz <br />
-**7 Int:** Healthpack, Badasz, Phey <br />
-**9 Str:** Badasz, Phey, Taicelynn <br />
-**9 Stam:** Badasz, Phey <br />
-**9 Spirit:** Badasz, Phey
+**4pm5:** Taicelynn, Badasz, Phey, Alister <br />
+**24 Healing:** Taicelynn, Badasz, Alister <br />
+**7 Int:** Healthpack, Badasz, Phey, Alister <br />
+**9 Str:** Badasz, Phey, Taicelynn, Alister <br />
+**9 Stam:** Badasz, Phey, Alister <br />
+**9 Spirit:** Badasz, Phey, Alister
 
 ### Gloves
-**7 Agi:** Taicelynn, Badasz, Phey <br />
-**7 Str:** Phey, Badasz <br />
-**Riding:** Taicelynn, Badasz, Phey
+**7 Agi:** Taicelynn, Badasz, Phey, Alister <br />
+**7 Str:** Phey, Badasz, Alister <br />
+**Riding:** Taicelynn, Badasz, Phey, Alister
 
 ### Boots
-**7 Agi:** Taicelynn, Badasz, Phey <br />
-**Minor Run Speed:** Taicelynn, Badasz, Phey
+**7 Agi:** Taicelynn, Badasz, Phey, Alister <br />
+**Minor Run Speed:** Taicelynn, Badasz, Phey, Alister
 
 ### Cloak
-**5 All Resists:** Healthpack, Taicelynn, Badasz, Phey <br />
-**3 Agi:** Badasz, Phey <br />
-**7 Fire Resist:** Badasz, Phey <br />
-**15 Nature Resist:** 
+**5 All Resists:** Healthpack, Taicelynn, Badasz, Phey, Alister <br />
+**3 Agi:** Badasz, Phey, Alister <br />
+**7 Fire Resist:** Badasz, Phey, Alister <br />
+**15 Nature Resist:** Phey, Alister
 
 ## Alchemists
 • Litoses has everything and Roth has most things.
@@ -110,14 +115,14 @@ dark iron gear?
 
 ## Tailors
 **Flarecore Set:** Phey <br />
-**Bloodvine Set:** Phey <br />
-**Felcloth Set:** Deitz, Phey <br />
-**Frostweave Set:** Phey <br />
-**Stygian Set:** Phey
+**Bloodvine Set:** Phey, Alister <br />
+**Felcloth Set:** Deitz, Phey, Alister <br />
+**Frostweave Set:** Phey, Alister <br />
+**Stygian Set:** Phey, Alister
 
 ### Bags
 **Core Felcloth Bag:** Deitz, Phey <br />
 **Bottomless Bag:**  <br />
-**Mooncloth Bag:** Deitz, Rothana, Lisapants, Phey <br />
+**Mooncloth Bag:** Deitz, Rothana, Lisapants, Phey, Alister <br />
 **Satchel of Cenarius:**  <br />
-**Big Bag of Enchantment:**
+**Big Bag of Enchantment:** Alister
