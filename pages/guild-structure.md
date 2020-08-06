@@ -33,6 +33,6 @@ Our CLs have a great deal of autonomy. Guild-wide rules are determined and discu
 Officers are around to talk to! Whilst you need to speak to your CL about anything class related, you are welcome to reach out to any officer that you feel most appropriate or comfortable with about other issues you may have. Keep us informed, be respectful, and together lets maintain a supportive and positive guild culture! Of course if you only feel okay about speaking up if you can be anonymous, there is the [suggestion box](https://forms.gle/DWDiP5uZ4MqrgdZe7)!
 
 • Contact your Class Lead (CL) for questions about loot, your class spells, rotation, stats, gear, and role. Refer to the Officer List above. <br />
-• HR issues - contact your CL first and if that isn't an option, for whatever reason, then try Kanute, Hatred, or Roth.
-• Website content - Roth or Hatred.
+• HR issues - contact your CL first and if that isn't an option, for whatever reason, then try Kanute, Hatred, or Roth. <br />
+• Website content - Roth or Hatred. <br />
 • Discord content - Roth, Hatred, or Distorted.
