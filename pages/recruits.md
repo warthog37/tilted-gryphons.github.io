@@ -10,13 +10,13 @@ We want to create and maintain a friendly guild that everyone is proud to be a p
 ### Tilted Gryphons
 Tilted Gryphons is a PvE-focused semi-core raiding guild which looks for social and progression-oriented players in order to complete content in a timely manner and have a rowdy good time doing it! We don't mind if you're new to the game, or played since 2005, we have room for everyone if they're willing to be a positive member of our community.
 
-#### Goals:
+**Goals:**
 • Be a visible name in the progression community.
 • Be a welcoming and friendly environment that you ***want*** to play with every night.
 • Clear all content as efficiently as we reasonably can.
 • Uphold a reputation with the people we play with to keep Tilted Gryphons a name that's synonymous with a positive community.
 
-#### Member Conduct:
+**Member Conduct:**
 • Emulate the Gryphon. Be friendly to others, don't be a dick, contribute to the guild and server community in a way that would make everyone proud to be a part of it, and have a drive to take action when called upon.
 • For our raiders, the willingness to improve - demonstrate an ability to better yourself and the raid! Sometimes this might require respecs and other times a role just might not fit our team. We try our best here.
 • Be able to use Discord with push to talk if you're interested in being an endgame player.
@@ -25,7 +25,7 @@ Tilted Gryphons is a PvE-focused semi-core raiding guild which looks for social 
 If you'd like to join as a raider, there are a great many more requirements. First and foremost, do we have an opening for your class? <br />
 We may be interested in picking up exceptional players regardless of whether we are actively recruiting a class, so if you're really keen to join our guild specifically, feel free to try your luck!
 
-#### Class Openings
+**Class Openings**
 **Druid** [Closed] <br />
 **Hunter** [Closed] <br />
 **Mage** [Closed] <br />
@@ -35,13 +35,13 @@ We may be interested in picking up exceptional players regardless of whether we 
 **Warlock** [Closed] <br />
 **Warrior** [Closed] <br />
 
-#### Raid Times
+**Raid Times**
 9pm-1am server time (Eastern, GMT-5)
 Tuesdays
 Wednesdays
 Saturdays
 
-#### Current Progression
+**Current Progression**
 AQ40 6/6 0/3 - cleared C'thun the day the gates opened!
 AQ20 6/6
 BWL 8/8
