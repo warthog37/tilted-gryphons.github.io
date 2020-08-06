@@ -67,7 +67,7 @@ We _will_ reach out to your previous guild and ask them about you. However we ar
 After an interview and some vetting, the officers, including your CL, will decide whether or not to accept you as a new recruit. As a War Fledgeling you'll need to make a good impression on us. We are looking for skill at playing your class, your ability to listen, to work well with your CL, your general attitude, and how well you mesh with our guild culture. The trial period lasts a minimum of three weeks.
 
 ### How to Join
-Good job if you've read this far! Please go to our Discord and follow these directions: <br />
+Good job if you've read this far! Please go to our [Discord](https://tiltedgryphons.com) and follow these directions: <br />
 1. In the *#read-me-first* channel type: ?accept <br />
 2. Then in the *#new-recruits* channel please post your in-game name, current level, class, and desired end-game spec. <br />
 3. Wait for an officer to get in touch with you. This may take a day. <br />
