@@ -86,7 +86,7 @@ DM an officer (but realistically probably Rothana) on Discord to get yourself ad
 **Greater Stoneshield:** Rothana, Litoses, Lumia <br />
 **Major Health:** Rothana, Litoses, Lumia <br />
 **Major Mana:** Rothana, Litoses, Lumia <br />
-**Brute Force:** Litoses?
+**Brute Force:** Lumia, Litoses?
 
 **Gurubashi Mojo Madness:** Litoses, Rothana, Lumia
 
