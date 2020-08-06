@@ -7,7 +7,7 @@ classes:
 sidebar:
   nav: "sidemenu"
 ---
-![Tilted Gryphons kill Nefarian](/assets/images/tg_openingnight_first_cthun_kill.jpg)
+![Tilted Gryphons One-Shot C'thun First Night in AQ40](/assets/images/tg_openingnight_first_cthun_kill.jpg)
 
 This is the Tilted Gryphons hub of information created by Hatred and Roth! We hope that you will find it easier to locate what you want to know on this site rather than the old system of organisation on Discord.
 
