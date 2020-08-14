@@ -77,7 +77,8 @@ DM an officer (but realistically probably Rothana) on Discord to get yourself ad
 **Greater Arcane:** Litoses, Rothana <br />
 **Mageblood:** Rothana, Litoses, Lumia <br />
 **Trollblood:** Rothana, Litoses, Lumia <br />
-**Mongoose:** Litoses, Rothana, Scorch, Hanzho, Lumia
+**Mongoose:** Litoses, Rothana, Scorch, Hanzho, Lumia <br />
+**Poison Resistance:** Rothana, Litoses
 
 ### Potions
 **Greater Fire Prot:** Litoses, Rothana, Lumia <br />
@@ -86,9 +87,13 @@ DM an officer (but realistically probably Rothana) on Discord to get yourself ad
 **Greater Stoneshield:** Rothana, Litoses, Lumia <br />
 **Major Health:** Rothana, Litoses, Lumia <br />
 **Major Mana:** Rothana, Litoses, Lumia <br />
-**Brute Force:** Lumia, Litoses?
+**Brute Force:** Lumia <br />
+**Restorative:** Rothana
 
-**Gurubashi Mojo Madness:** Litoses, Rothana, Lumia
+### Miscellaneous
+**Gurubashi Mojo Madness:** Litoses, Rothana, Lumia <br />
+**Frost Oil:** Rothana
+
 
 ## Blacksmiths
 **Elemental Sharpening Stone:** Damebesitos, Catlordx <br />
@@ -104,7 +109,7 @@ dark iron gear?
 **Ultra-Flash Shadow Reflector:** Kanute <br />
 **Gyrofreeze Ice Reflector:** Kanute <br />
 **Arcanite Dragonling:** Kanute <br />
-**Goblin Sapper Charges:**
+**Goblin Sapper Charges:** Rothana, Uncensored 
 
 ## Leatherworkers
 **Devilsaur Legs:** Reohaiko, Hatredcopter <br />
