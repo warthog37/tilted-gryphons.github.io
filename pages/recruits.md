@@ -25,7 +25,7 @@ Tilted Gryphons is a PvE-focused semi-core raiding guild which looks for social 
 If you'd like to join as a raider, there are a great many more requirements. First and foremost, do we have an opening for your class? <br />
 We may be interested in picking up exceptional players regardless of whether we are actively recruiting a class, so if you're really keen to join our guild specifically, feel free to try your luck!
 
-**Class Openings (edited on: 14 Aug '20):** <br />
+**Class Openings (edited on: 15 Aug '20):** <br />
 **Druid** [Closed] <br />
 **Hunter** [Closed] <br />
 **Mage** [Closed] <br />
@@ -52,12 +52,12 @@ ZG 10/10
 • Be attuned to Ony, MC, and BWL. <br />
 • Maintain reliable attendance of at least 75%. <br />
 • Have a headset and use a push-to-talk button. <br />
-• Install all [required mods](/pages/raider-expectations.html) and keep them up to date. <br />
-• Meet any special requirements laid out by your [Class Lead](/pages/guild-structure.html). <br />
-• Review our [Raider Expectations](/pages/raider-expectations.html). <br />
-• Review our [Loot System](/pages/loot.html). <br />
-• Review our [Guild Structure and Officers](/pages/guild-structure.html). <br />
-• Review our definition of what it means for us to be a [semicore](/pages/semicore.html) raiding guild.
+• Install all [required mods](/pages/raider-expectations/) and keep them up to date. <br />
+• Meet any special requirements laid out by your [Class Lead](/pages/guild-structure/). <br />
+• Review our [Raider Expectations](/pages/raider-expectations/). <br />
+• Review our [Loot System](/pages/loot/). <br />
+• Review our [Guild Structure and Officers](/pages/guild-structure/). <br />
+• Review our definition of what it means for us to be a [semicore](/pages/semicore/) raiding guild.
 
 ### Recruitment Process
 You will have posted in the #new-recruits Discord channel. We will see this post and the CL for your class will respond to you. If we want to recruit you, then you will need to complete an interview with the Class Lead and at least one other officer via voice chat. To avoid crowding and intimidation we prefer to keep this to a maximum of three officers.
