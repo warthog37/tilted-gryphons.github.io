@@ -107,6 +107,15 @@ DM an officer (but realistically probably Rothana) on Discord to get yourself ad
 **Lionheart Helm:** Damebesitos <br />
 dark iron gear?
 
+### Frost Resist
+**Radiant Circlet:** <br />
+**Radiant Breastplate:** <br />
+**Radiant Gloves:** <br />
+**Radiant Belt:** <br />
+**Radiant Leggings:** <br />
+**Radiant Boots:** 
+
+
 ## Engineers
 **Biznicks 247x128 Accurascope (3% ranged hit):** Kanute, Rothana <br />
 **Sniper Scope (+7 dmg):** Kanute, Rothana <br />
@@ -121,9 +130,17 @@ dark iron gear?
 ## Leatherworkers
 **Devilsaur Legs:** Reohaiko, Hatredcopter <br />
 **Devilsaur Gloves:** Reohaiko, Hatredcopter <br />
+
+### Nature Resist
 **Sandstalker Bracers:** Hatredcopter <br />
 **Sandstalker Gauntlets:** Hatredcopter <br />
 **Sandstalker Breastplate:**
+
+### Frost Resist
+**Frostsaber Tunic:** <br />
+**Frostsaber Leggings:** <br />
+**Frostsaber Gloves:** <br />
+**Frostsaber Boots:** <br />
 
 ## Tailors
 **Flarecore Set:** Phey <br />
