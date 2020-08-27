@@ -81,11 +81,11 @@ DM an officer (but realistically probably Rothana) on Discord to get yourself ad
 **Chromatic Resistance:** Litoses, Rothana, Lumia
 
 ### Elixirs
-**Greater Arcane:** Litoses, Rothana <br />
+**Greater Arcane:** Litoses, Rothana, Lumia <br />
 **Mageblood:** Rothana, Litoses, Lumia <br />
 **Trollblood:** Rothana, Litoses, Lumia <br />
 **Mongoose:** Litoses, Rothana, Scorch, Hanzho, Lumia <br />
-**Poison Resistance:** Rothana, Litoses
+**Poison Resistance:** Rothana, Litoses, Lumia
 
 ### Potions
 **Greater Fire Prot:** Litoses, Rothana, Lumia <br />
@@ -95,11 +95,11 @@ DM an officer (but realistically probably Rothana) on Discord to get yourself ad
 **Major Health:** Rothana, Litoses, Lumia <br />
 **Major Mana:** Rothana, Litoses, Lumia <br />
 **Brute Force:** Lumia <br />
-**Restorative:** Rothana
+**Restorative:** Rothana, Lumia
 
 ### Miscellaneous
 **Gurubashi Mojo Madness:** Litoses, Rothana, Lumia <br />
-**Frost Oil:** Rothana
+**Frost Oil:** Rothana, Lumia
 
 
 ## Blacksmiths
