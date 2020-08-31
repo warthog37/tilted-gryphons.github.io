@@ -25,7 +25,7 @@ Tilted Gryphons is a PvE-focused semi-core raiding guild which looks for social 
 If you'd like to join as a raider, there are a great many more requirements. First and foremost, do we have an opening for your class? <br />
 We may be interested in picking up exceptional players regardless of whether we are actively recruiting a class, so if you're really keen to join our guild specifically, feel free to try your luck!
 
-**Class Openings (edited on: 15 Aug '20):** <br />
+**Class Openings (edited on: 31 Aug '20):** <br />
 **Druid** [open] <br />
 **Hunter** [open] <br />
 **Mage** [open] <br />
