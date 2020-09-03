@@ -27,13 +27,13 @@ DM an officer (but realistically probably Rothana) on Discord to get yourself ad
 **5 Dmg:** Phey, Alister
 
 ### Oils
-**Mana Oil:** Alister <br />
-**Wizard Oil:** Alister
+**Mana Oil:** Alister, Phey <br />
+**Wizard Oil:** Alister, Phey
 
 ### Shields
 **7 Stam:** Healthpack, Alister <br />
 **Frost Resist:** Healthpack, Alister <br />
-**2% Shield Block** Alister
+**2% Shield Block** Alister, Phey
 
 ### Chest
 **4 Stats:** Badasz <br />
@@ -55,9 +55,10 @@ DM an officer (but realistically probably Rothana) on Discord to get yourself ad
 **7 Str:** Phey, Badasz, Alister <br />
 **Riding:** Taicelynn, Badasz, Phey, Alister <br />
 **Fire Power:** Phey <br />
-**Frost Power:** <br />
+**Frost Power:** Healthpack, <br />
 **Healing Power:** <br />
-**Shadow Power:**
+**Shadow Power:** <br />
+**Threat:** Healthpack
 
 ### Boots
 **7 Agi:** Taicelynn, Badasz, Phey, Alister <br />
@@ -69,7 +70,7 @@ DM an officer (but realistically probably Rothana) on Discord to get yourself ad
 **7 Fire Resist:** Badasz, Phey, Alister <br />
 **15 Nature Resist:** Phey, Alister <br />
 **Stealth:** <br />
-**Dodge:**
+**Dodge:** Phey
 
 ## Alchemists
 • Litoses has everything and Roth has most things.
