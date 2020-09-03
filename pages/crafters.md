@@ -11,7 +11,7 @@ DM an officer (but realistically probably Rothana) on Discord to get yourself ad
 - If there's an important item missing let me know.
 
 ## Enchanters
-Alister, Badasz, Healthpack, Phey, Taicelynn
+_Alister, Badasz, Healthpack, Phey, Taicelynn_
 
 ### Weapons
 **Crusader:** Badasz, Phey, Taicelynn, Alister <br />
@@ -74,7 +74,7 @@ Alister, Badasz, Healthpack, Phey, Taicelynn
 **Dodge:** Phey
 
 ## Alchemists
-Hanzho, Litoses, Lumia, Rothana, Scorch
+_Hanzho, Litoses, Lumia, Rothana, Scorch_
 
 ### Flasks
 **Titans:** Litoses, Lumia <br />
@@ -105,7 +105,7 @@ Hanzho, Litoses, Lumia, Rothana, Scorch
 
 
 ## Blacksmiths
-Catlordx, Damebesitos
+_Catlordx, Damebesitos_
 
 **Elemental Sharpening Stone:** Damebesitos, Catlordx <br />
 **Lionheart Helm:** Damebesitos <br />
@@ -121,8 +121,8 @@ dark iron gear?
 
 
 ## Engineers
-Gnomish: Kanute
-Goblin: Rothana, Uncensored
+_Gnomish: Kanute
+Goblin: Rothana, Uncensored_
 
 **Biznicks 247x128 Accurascope (3% ranged hit):** Kanute, Rothana <br />
 **Sniper Scope (+7 dmg):** Kanute, Rothana <br />
@@ -135,7 +135,7 @@ Goblin: Rothana, Uncensored
 **Goblin Sapper Charges:** Rothana, Uncensored 
 
 ## Leatherworkers
-Hatredcopter, Reohaiko
+_Hatredcopter, Reohaiko_
 
 **Devilsaur Legs:** Reohaiko, Hatredcopter <br />
 **Devilsaur Gloves:** Reohaiko, Hatredcopter <br />
@@ -152,7 +152,7 @@ Hatredcopter, Reohaiko
 **Frostsaber Boots:** <br />
 
 ## Tailors
-Alister, Deitz, Lisapants, Phey
+_Alister, Deitz, Lisapants, Phey_
 
 **Flarecore Set:** Phey <br />
 **Bloodvine Set:** Phey, Alister <br />
