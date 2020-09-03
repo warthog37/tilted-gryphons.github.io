@@ -11,6 +11,7 @@ DM an officer (but realistically probably Rothana) on Discord to get yourself ad
 - If there's an important item missing let me know.
 
 ## Enchanters
+Alister, Badasz, Healthpack, Phey, Taicelynn
 
 ### Weapons
 **Crusader:** Badasz, Phey, Taicelynn, Alister <br />
@@ -73,7 +74,7 @@ DM an officer (but realistically probably Rothana) on Discord to get yourself ad
 **Dodge:** Phey
 
 ## Alchemists
-• Litoses has everything and Roth has most things.
+Hanzho, Litoses, Lumia, Rothana, Scorch
 
 ### Flasks
 **Titans:** Litoses, Lumia <br />
@@ -104,6 +105,8 @@ DM an officer (but realistically probably Rothana) on Discord to get yourself ad
 
 
 ## Blacksmiths
+Catlordx, Damebesitos
+
 **Elemental Sharpening Stone:** Damebesitos, Catlordx <br />
 **Lionheart Helm:** Damebesitos <br />
 dark iron gear?
@@ -118,6 +121,9 @@ dark iron gear?
 
 
 ## Engineers
+Gnomish: Kanute
+Goblin: Rothana, Uncensored
+
 **Biznicks 247x128 Accurascope (3% ranged hit):** Kanute, Rothana <br />
 **Sniper Scope (+7 dmg):** Kanute, Rothana <br />
 **Thorium Shells:** Kanute, Rothana <br />
@@ -129,6 +135,8 @@ dark iron gear?
 **Goblin Sapper Charges:** Rothana, Uncensored 
 
 ## Leatherworkers
+Hatredcopter, Reohaiko
+
 **Devilsaur Legs:** Reohaiko, Hatredcopter <br />
 **Devilsaur Gloves:** Reohaiko, Hatredcopter <br />
 
@@ -144,6 +152,8 @@ dark iron gear?
 **Frostsaber Boots:** <br />
 
 ## Tailors
+Alister, Deitz, Lisapants, Phey
+
 **Flarecore Set:** Phey <br />
 **Bloodvine Set:** Phey, Alister <br />
 **Felcloth Set:** Deitz, Phey, Alister <br />
