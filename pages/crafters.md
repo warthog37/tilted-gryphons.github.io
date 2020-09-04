@@ -19,7 +19,7 @@ _Alister, Badasz, Healthpack, Pellor(Becka), Phey, Taicelynn_
 **Icy:** Phey, Alister <br />
 **Unholy:** Phey, Alister <br />
 **55 Healing:** Badasz <br />
-**30 Spell Power:** Badasz, Alister <br />
+**30 Spell Power:** Badasz, Alister, Taicelynn <br />
 **7 Frost Damage:** Healthpack, Alister <br />
 **22 Int:** Phey <br />
 **15 Agi:** Badasz, Phey, Alister <br />
@@ -70,7 +70,7 @@ _Alister, Badasz, Healthpack, Pellor(Becka), Phey, Taicelynn_
 **3 Agi:** Badasz, Phey, Alister <br />
 **7 Fire Resist:** Badasz, Phey, Alister <br />
 **15 Nature Resist:** Phey, Alister <br />
-**Stealth:** <br />
+**Subtlety:** Taicelynn <br />
 **Dodge:** Phey
 
 ## Alchemists
