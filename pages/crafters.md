@@ -11,7 +11,7 @@ DM an officer (but realistically probably Rothana) on Discord to get yourself ad
 - If there's an important item missing let me know.
 
 ## Enchanters
-_Alister, Badasz, Healthpack, Phey, Taicelynn_
+_Alister, Badasz, Healthpack, Pellor(Becka), Phey, Taicelynn_
 
 ### Weapons
 **Crusader:** Badasz, Phey, Taicelynn, Alister <br />
@@ -28,8 +28,8 @@ _Alister, Badasz, Healthpack, Phey, Taicelynn_
 **5 Dmg:** Phey, Alister
 
 ### Oils
-**Mana Oil:** Alister, Phey <br />
-**Wizard Oil:** Alister, Phey
+**Mana Oil:** Alister, Phey, Pellor(A) <br />
+**Wizard Oil:** Alister, Phey, Pellor(A)
 
 ### Shields
 **7 Stam:** Healthpack, Alister <br />
@@ -47,7 +47,7 @@ _Alister, Badasz, Healthpack, Phey, Taicelynn_
 **24 Healing:** Taicelynn, Badasz, Alister <br />
 **7 Int:** Healthpack, Badasz, Phey, Alister <br />
 **9 Str:** Badasz, Phey, Taicelynn, Alister <br />
-**9 Stam:** Badasz, Phey, Alister <br />
+**9 Stam:** Badasz, Phey, Alister, Pellor(A) <br />
 **9 Spirit:** Badasz, Phey, Alister
 
 ### Gloves
@@ -63,7 +63,7 @@ _Alister, Badasz, Healthpack, Phey, Taicelynn_
 
 ### Boots
 **7 Agi:** Taicelynn, Badasz, Phey, Alister <br />
-**Minor Run Speed:** Taicelynn, Badasz, Phey, Alister
+**Minor Run Speed:** Taicelynn, Badasz, Phey, Alister, Rothana(A)
 
 ### Cloak
 **5 All Resists:** Healthpack, Taicelynn, Badasz, Phey, Alister <br />
@@ -74,35 +74,43 @@ _Alister, Badasz, Healthpack, Phey, Taicelynn_
 **Dodge:** Phey
 
 ## Alchemists
-_Hanzho, Litoses, Lumia, Rothana, Scorch_
+_Calistto, Hanzho, Litoses, Lumia, Pellor, Rothana, Scorch_
 
 ### Flasks
-**Titans:** Litoses, Lumia <br />
+**Titans:** Litoses, Lumia, Calistto <br />
 **Supreme Power:** Litoses, Rothana, Scorch, Lumia <br />
-**Distilled Wisdom:** Litoses, Rothana, Lumia <br />
+**Distilled Wisdom:** Litoses, Rothana, Lumia, Pellor, Calistto <br />
 **Chromatic Resistance:** Litoses, Rothana, Lumia
 
 ### Elixirs
-**Greater Arcane:** Litoses, Rothana, Lumia <br />
-**Mageblood:** Rothana, Litoses, Lumia <br />
-**Trollblood:** Rothana, Litoses, Lumia <br />
-**Mongoose:** Litoses, Rothana, Scorch, Hanzho, Lumia <br />
-**Poison Resistance:** Rothana, Litoses, Lumia
+**Greater Arcane:** Litoses, Rothana, Lumia, Pellor, Calistto <br />
+**Mageblood:** Rothana, Litoses, Lumia, Calistto <br />
+**Trollblood:** Rothana, Litoses, Lumia, Calistto <br />
+**Mongoose:** Litoses, Rothana, Scorch, Hanzho, Lumia, Pellor, Calistto <br />
+**Giants:** Pellor <br />
+**Poison Resistance:** Rothana, Litoses, Lumia, Calistto <br />
+**Greater Frost Power:** Calistto <br />
+**Greater Fire Power:** Calistto <br />
+**Shadow Power:** Calistto 
 
 ### Potions
-**Greater Fire Prot:** Litoses, Rothana, Lumia <br />
-**Greater Nature Prot:** Rothana, Litoses, Lumia <br />
-**Greater Frost Prot:** Litoses, Lumia <br />
-**Greater Stoneshield:** Rothana, Litoses, Lumia <br />
-**Major Health:** Rothana, Litoses, Lumia <br />
-**Major Mana:** Rothana, Litoses, Lumia <br />
-**Brute Force:** Lumia <br />
-**Restorative:** Rothana, Lumia
+**Greater Fire Protection:** Litoses, Rothana, Lumia, Calistto <br />
+**Greater Nature Protection:** Rothana, Litoses, Lumia, Calistto <br />
+**Greater Frost Protection:** Litoses, Rothana, Lumia, Calistto <br />
+**Greater Shadow Protection:** Rothana, Calistto <br />
+**Greater Stoneshield:** Rothana, Litoses, Lumia, Calistto <br />
+**Limited Invulnerability:** Rothana, Pellor <br />
+**Major Health:** Rothana, Litoses, Lumia, Calistto <br />
+**Major Mana:** Rothana, Litoses, Lumia, Calistto <br />
+**Mighty Rage:** Pellor <br />
+**Brute Force:** Lumia, Calistto <br />
+**Restorative:** Rothana, Lumia, Calistto
 
 ### Miscellaneous
-**Gurubashi Mojo Madness:** Litoses, Rothana, Lumia <br />
-**Frost Oil:** Rothana, Lumia
-
+**Gurubashi Mojo Madness:** Litoses, Rothana, Lumia, Calistto <br />
+**Frost Oil:** Rothana, Lumia, Calistto <br />
+**Shadow Oil:** Calistto, Rothana <br />
+**Goblin Rocket Fuel:** Rothana, Calistto
 
 ## Blacksmiths
 _Catlordx, Damebesitos_
