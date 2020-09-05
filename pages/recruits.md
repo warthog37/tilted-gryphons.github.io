@@ -33,7 +33,7 @@ We may be interested in picking up exceptional players regardless of whether we 
 **Priest** [Open] - one <br />
 **Rogue** [Closed] <br />
 **Warlock** [Closed] <br />
-**Warrior** [Open] - one fury <br />
+**Warrior** [Closed] <br />
 
 **Raid Times:** <br />
 9pm-1am server time (Eastern, GMT-5) <br />
