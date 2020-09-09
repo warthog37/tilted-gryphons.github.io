@@ -11,106 +11,106 @@ DM an officer (but realistically probably Rothana) on Discord to get yourself ad
 - If there's an important item missing let me know.
 
 ## Enchanters
-_Alister, Badasz, Healthpack, Pellor(Becka), Phey, Taicelynn_
+_Alister, Badasz, Healthpack, Kidun, Pellor(Becka), Phey, Taicelynn_
 
 ### Weapons
-**Crusader:** Badasz, Phey, Taicelynn, Alister <br />
-**Fiery:** Taicelynn, Badasz, Phey, Alister <br />
-**Icy:** Phey, Alister <br />
+**Crusader:** Badasz, Phey, Taicelynn, Alister, Kidun <br />
+**Fiery:** Taicelynn, Badasz, Phey, Alister, Kidun <br />
+**Icy:** Phey, Alister, Kidun <br />
 **Unholy:** Phey, Alister <br />
 **55 Healing:** Badasz <br />
 **30 Spell Power:** Badasz, Alister, Taicelynn <br />
 **7 Frost Damage:** Healthpack, Alister <br />
 **22 Int:** Phey <br />
-**15 Agi:** Badasz, Phey, Alister <br />
-**20 Spirit:** Phey <br />
-**15 Str:** Phey <br />
+**15 Agi:** Badasz, Phey, Alister, Kidun <br />
+**20 Spirit:** Phey, Kidun <br />
+**15 Str:** Phey, Kidun <br />
 **5 Dmg:** Phey, Alister
 
 ### Oils
-**Mana Oil:** Alister, Phey, Pellor(A) <br />
-**Wizard Oil:** Alister, Phey, Pellor(A)
+**Mana Oil:** Alister, Phey, Pellor(A), Kidun <br />
+**Wizard Oil:** Alister, Phey, Pellor(A), Kidun
 
 ### Shields
-**7 Stam:** Healthpack, Alister <br />
+**7 Stam:** Healthpack, Alister, Kidun <br />
 **Frost Resist:** Healthpack, Alister <br />
 **2% Shield Block** Alister, Phey
 
 ### Chest
 **4 Stats:** Badasz <br />
-**3 Stats:** Taicelynn, Phey, Alister <br />
-**100 Health:** Badasz, Phey, Alister <br />
-**100 Mana:** Badasz, Phey, Alister
+**3 Stats:** Taicelynn, Phey, Alister, Kidun <br />
+**100 Health:** Badasz, Phey, Alister, Kidun <br />
+**100 Mana:** Badasz, Phey, Alister, Kidun
 
 ### Bracers
-**4pm5:** Taicelynn, Badasz, Phey, Alister <br />
-**24 Healing:** Taicelynn, Badasz, Alister <br />
+**4pm5:** Taicelynn, Badasz, Phey, Alister, Kidun <br />
+**24 Healing:** Taicelynn, Badasz, Alister, Kidun <br />
 **7 Int:** Healthpack, Badasz, Phey, Alister <br />
-**9 Str:** Badasz, Phey, Taicelynn, Alister <br />
-**9 Stam:** Badasz, Phey, Alister, Pellor(A) <br />
-**9 Spirit:** Badasz, Phey, Alister
+**9 Str:** Badasz, Phey, Taicelynn, Alister, Kidun <br />
+**9 Stam:** Badasz, Phey, Alister, Pellor(A), Kidun <br />
+**9 Spirit:** Badasz, Phey, Alister, Kidun
 
 ### Gloves
 **15 Agi:** <br />
-**7 Agi:** Taicelynn, Badasz, Phey, Alister <br />
+**7 Agi:** Taicelynn, Badasz, Phey, Alister, Kidun <br />
 **7 Str:** Phey, Badasz, Alister <br />
 **Riding:** Taicelynn, Badasz, Phey, Alister <br />
 **Fire Power:** Phey <br />
-**Frost Power:** Healthpack, <br />
+**Frost Power:** Healthpack, Kidun <br />
 **Healing Power:** <br />
 **Shadow Power:** <br />
 **Threat:** Healthpack
 
 ### Boots
-**7 Agi:** Taicelynn, Badasz, Phey, Alister <br />
-**Minor Run Speed:** Taicelynn, Badasz, Phey, Alister, Rothana(A)
+**7 Agi:** Taicelynn, Badasz, Phey, Alister, Kidun <br />
+**Minor Run Speed:** Taicelynn, Badasz, Phey, Alister, Rothana(A), Kidun
 
 ### Cloak
 **5 All Resists:** Healthpack, Taicelynn, Badasz, Phey, Alister <br />
-**3 Agi:** Badasz, Phey, Alister <br />
-**7 Fire Resist:** Badasz, Phey, Alister <br />
-**15 Nature Resist:** Phey, Alister <br />
+**3 Agi:** Badasz, Phey, Alister, Kidun <br />
+**7 Fire Resist:** Badasz, Phey, Alister, Kidun <br />
+**15 Nature Resist:** Phey, Alister, Kidun <br />
 **Subtlety:** Taicelynn <br />
 **Dodge:** Phey
 
 ## Alchemists
-_Calistto, Hanzho, Litoses, Lumia, Pellor, Rothana, Scorch_
+_Calistto, Hanzho, Kidun, Litoses, Lumia, Pellor, Rothana, Scorch_
 
 ### Flasks
-**Titans:** Litoses, Lumia, Calistto <br />
+**Titans:** Litoses, Lumia, Calistto, Kidun <br />
 **Supreme Power:** Litoses, Rothana, Scorch, Lumia <br />
 **Distilled Wisdom:** Litoses, Rothana, Lumia, Pellor, Calistto <br />
 **Chromatic Resistance:** Litoses, Rothana, Lumia
 
 ### Elixirs
-**Greater Arcane:** Litoses, Rothana, Lumia, Pellor, Calistto <br />
-**Mageblood:** Rothana, Litoses, Lumia, Calistto <br />
-**Trollblood:** Rothana, Litoses, Lumia, Calistto <br />
-**Mongoose:** Litoses, Rothana, Scorch, Hanzho, Lumia, Pellor, Calistto <br />
-**Giants:** Pellor <br />
-**Poison Resistance:** Rothana, Litoses, Lumia, Calistto <br />
+**Greater Arcane:** Litoses, Rothana, Lumia, Pellor, Calistto, Kidun <br />
+**Mageblood:** Rothana, Litoses, Lumia, Calistto, Kidun <br />
+**Trollblood:** Rothana, Litoses, Lumia, Calistto, Kidun <br />
+**Mongoose:** Litoses, Rothana, Scorch, Hanzho, Lumia, Pellor, Calistto, Kidun <br />
+**Giants:** Pellor, Kidun <br />
+**Poison Resistance:** Rothana, Litoses, Lumia, Calistto, Kidun <br />
 **Greater Frost Power:** Calistto <br />
-**Greater Fire Power:** Calistto <br />
-**Shadow Power:** Calistto 
+**Greater Fire Power:** Calistto, Kidun <br />
+**Shadow Power:** Rothana, Calistto, Kidun 
 
 ### Potions
-**Greater Fire Protection:** Litoses, Rothana, Lumia, Calistto <br />
-**Greater Nature Protection:** Rothana, Litoses, Lumia, Calistto <br />
-**Greater Frost Protection:** Litoses, Rothana, Lumia, Calistto <br />
-**Greater Shadow Protection:** Rothana, Calistto <br />
-**Greater Stoneshield:** Rothana, Litoses, Lumia, Calistto <br />
-**Limited Invulnerability:** Rothana, Pellor <br />
-**Major Health:** Rothana, Litoses, Lumia, Calistto <br />
-**Major Mana:** Rothana, Litoses, Lumia, Calistto <br />
-**Mighty Rage:** Pellor <br />
+**Greater Fire Protection:** Litoses, Rothana, Lumia, Calistto, Kidun <br />
+**Greater Nature Protection:** Rothana, Litoses, Lumia, Calistto, Kidun <br />
+**Greater Frost Protection:** Litoses, Rothana, Lumia, Calistto, Kidun <br />
+**Greater Shadow Protection:** Rothana, Calistto, Kidun <br />
+**Greater Stoneshield:** Rothana, Litoses, Lumia, Calistto, Kidun <br />
+**Limited Invulnerability:** Rothana, Pellor, Kidun <br />
+**Major Health:** Rothana, Litoses, Lumia, Calistto, Kidun <br />
+**Major Mana:** Rothana, Litoses, Lumia, Calistto, Kidun <br />
+**Mighty Rage:** Pellor, Kidun <br />
 **Brute Force:** Lumia, Calistto <br />
-**Restorative:** Rothana, Lumia, Calistto
+**Restorative:** Rothana, Lumia, Calistto, Kidun
 
 ### Miscellaneous
-**Gurubashi Mojo Madness:** Litoses, Rothana, Lumia, Calistto <br />
-**Frost Oil:** Rothana, Lumia, Calistto <br />
-**Shadow Oil:** Calistto, Rothana <br />
-**Goblin Rocket Fuel:** Rothana, Calistto
+**Gurubashi Mojo Madness:** Litoses, Rothana, Lumia, Calistto, Kidun <br />
+**Frost Oil:** Rothana, Lumia, Calistto, Kidun <br />
+**Shadow Oil:** Calistto, Rothana, Kidun <br />
+**Goblin Rocket Fuel:** Rothana, Calistto, Kidun
 
 ## Blacksmiths
 _Catlordx, Damebesitos_
