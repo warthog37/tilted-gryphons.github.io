@@ -6,7 +6,7 @@ If we left everything up to luck or a magic 8-ball, we'd never get anywhere. Rea
 
 ### Attendance
 We require you to maintain 75% [attendance](https://docs.google.com/spreadsheets/d/177cdGkRlzIuB7uNDkvu6BLzvX5bJ78070ZargMugxVo/edit#gid=0). We recognise that real life happens and that sometimes you won’t be able to make a raid.
-It isn’t a big deal, just sign up with the absent role **_and_** send your Class Lead, Rothana, or Kanute a quick direct message on Discord to let them know the basics of what’s up. (Roth and Kanute do the attendance sheet.)
+It isn’t a big deal, just sign up with the absent role **_and_** post in the Absent channel in Discord. (Roth and Kanute do the attendance sheet.)
 
 This is a courtesy that we do expect you to extend to the officers who are volunteering a lot of their time to keep the guild running so that we can all raid. Give us information to work with, and don't leave 39 other people wondering if you're okay.
 
@@ -14,6 +14,7 @@ If you drop below 70% attendance you will most likely get demoted to Gryphon, an
 
 ### Preparedness
 - You _must_ sign up for each raid every week with some sort of reaction. Look at the Raid Signups in Discord to do this.
+- You _must_ post int he Absent channel in Discord if you can't make a raid, a range of raids, or will be late.
 - You are expected to bring consumables and get world buffs, _especially_ when we’re working on progression content.
 - Once a month when the Darkmoon Faire sets up, we encourage people to improve their parses and towards that goal, alts are not allowed that week. You are expected to get a minimum of two world buffs (DM buffs count as one). There will be the Darkmoon buff, Ony buff, Zanzil buff, and the Dire Maul buffs to obtain.
 
