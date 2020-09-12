@@ -30,7 +30,7 @@ We may be interested in picking up exceptional players regardless of whether we 
 **Hunter** [Closed] <br />
 **Mage** [Open] - two <br />
 **Paladin** [Closed] <br />
-**Priest** [Open] - one <br />
+**Priest** [Open] - one holy <br />
 **Rogue** [Closed] <br />
 **Warlock** [Closed] <br />
 **Warrior** [Closed] <br />
