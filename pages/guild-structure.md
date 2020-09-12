@@ -10,15 +10,14 @@ We have one Guild Master and eight Class Leaders (CLs) who form our officer core
 Our CLs have a great deal of autonomy. Guild-wide rules are determined and discussed by all of the officers, but class leaders are ultimately in charge of everyone within their class – be it setting up rotations, what mods are required, how many raiders of that class we should have, specs, or loot distribution.
 
 ### Officer List
+**Guild Master Steward:** Hatredcopter <br />
 **Guild Master:** Distorted <br />
-**Druid CL:** Hatredcopter <br />
-**Hunter CL:** Rothana <br />
-**Mage CL:** Scorch <br />
-**Paladin CL:** Damebesitos <br />
-**Priest CL:** Litoses <br />
-**Rogue CL:** Lukster <br />
-**Warlock CL:** Deitz <br />
-**Warrior CL:** Kanute
+**Officer:** Damebesitos <br />
+**Officer:** Deitz <br />
+**Officer:** Kanute
+**Officer:** Lukster <br />
+**Officer:** Rothana <br />
+**Officer:** Scorch <br />
 
 ### Guild Ranks
 **Gryphon Master:** Guild Master <br />
@@ -32,7 +31,7 @@ Our CLs have a great deal of autonomy. Guild-wide rules are determined and discu
 ### Which Officer Should I Contact?
 Officers are around to talk to! Whilst you need to speak to your CL about anything class related, you are welcome to reach out to any officer that you feel most appropriate or comfortable with about other issues you may have. Keep us informed, be respectful, and together lets maintain a supportive and positive guild culture! Of course if you only feel okay about speaking up if you can be anonymous, there is the [suggestion box](https://forms.gle/DWDiP5uZ4MqrgdZe7)!
 
-• Contact your Class Lead (CL) for questions about loot, your class spells, rotation, stats, gear, and role. Refer to the Officer List above. <br />
-• HR issues - contact your CL first and if that isn't an option, for whatever reason, then try Kanute, Hatred, or Roth. <br />
+• Ask in your class channel on Discord for questions about loot, your class spells, rotation, stats, gear, and role. <br />
+• HR issues - try Kanute, Hatred, or Roth. <br />
 • Website content - Roth or Hatred. <br />
-• Discord content - Roth, Hatred, or Distorted.
+• Discord content - Roth, Hatred, or Kanute.
