@@ -3,8 +3,8 @@ title: Loot
 classes: wide
 ---
 ### Loot System
-We use a **loot council** which is comprised of the officers/class leads, and two randomly selected raid members each week. These raid members are temporarily promoted to Flightmaster so that they can participate in the loot council via the in-game guild officer chat channel.<br />
-CLs usually have a firm idea of who is currently most eligible for an item based on attendance, attitude, performance, and effort.
+We use a **loot council** which is comprised of the officers and two randomly selected raid members each week. These raid members are temporarily promoted to Flightmaster so that they can participate in the loot council via the in-game guild officer chat channel.<br />
+Officers usually have a firm idea of who is currently most eligible for an item based on attendance, attitude, performance, and effort.
 
 ### Guild Loot Priority
 The guild's [loot priority outline](https://docs.google.com/spreadsheets/d/17gVCAlQK3_t0znFviccCSD6rcOJlXDODOXFTroTw0II/edit#gid=1516348409) is always available for you to review. This document lays out which classes have priority on specific pieces of gear and is determined by the officers. Classes or specs who don't have another good option, who will use a piece of gear for the longest, or who will get the most benefit over other classes, will tend to get prio.
