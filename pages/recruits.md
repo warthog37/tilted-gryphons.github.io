@@ -42,7 +42,7 @@ Wednesdays <br />
 Saturdays
 
 **Current Progression:** <br />
-AQ40 6/6 3/3 - one-shot C'thun the day the gates opened! <br />
+AQ40 9/9 - one-shot C'thun the day the gates opened! <br />
 AQ20 6/6 <br />
 BWL 8/8 <br />
 MC 10/10 <br />
