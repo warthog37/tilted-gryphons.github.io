@@ -37,9 +37,9 @@ We may be interested in picking up exceptional players regardless of whether we 
 
 **Raid Times:** <br />
 9pm-1am server time (Eastern, GMT-5) <br />
-Tuesdays <br />
-Wednesdays <br />
-Saturdays
+Tuesdays - AQ40 & AQ20 - counted in attendance.<br />
+Wednesdays - BWL & MC - counted in attendance. <br />
+Saturdays - AQ20 & ZG - attendance encouraged, but optional.
 
 **Current Progression:** <br />
 AQ40 9/9 - one-shot C'thun the day the gates opened! <br />
@@ -51,9 +51,10 @@ ZG 10/10
 ### Requirements for a Core Raid Spot
 • Be attuned to Ony, MC, and BWL. <br />
 • Maintain reliable attendance of at least 75%. <br />
+• Sign up on Discord with an appropriate reaction every raid. <br />
 • Have a headset and use a push-to-talk button. <br />
 • Install all [required mods](/pages/raider-expectations/) and keep them up to date. <br />
-• Meet any special requirements laid out by your [Class Lead](/pages/guild-structure/). <br />
+• Meet any special requirements for your class - check your class channel in Discord. <br />
 • Review our [Raider Expectations](/pages/raider-expectations/). <br />
 • Review our [Loot System](/pages/loot/). <br />
 • Review our [Guild Structure and Officers](/pages/guild-structure/). <br />
