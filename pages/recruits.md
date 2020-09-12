@@ -60,11 +60,11 @@ ZG 10/10
 • Review our definition of what it means for us to be a [semicore](/pages/semicore/) raiding guild.
 
 ### Recruitment Process
-You will have posted in the #new-recruits Discord channel. We will see this post and the CL for your class will respond to you. If we want to recruit you, then you will need to complete an interview with the Class Lead and at least one other officer via voice chat. To avoid crowding and intimidation we prefer to keep this to a maximum of three officers.
+You will have posted in the #new-recruits Discord channel. We will see this post and an officer will respond to you. If we want to recruit you, then you will need to complete an interview with 2-3 officers via voice chat.
 
 We _will_ reach out to your previous guild and ask them about you. However we aren't scary, we're just trying to protect our guild and recruit people who share our attitude towards raiding and who seem like decent, kind people.
 
-After an interview and some vetting, the officers, including your CL, will decide whether or not to accept you as a new recruit. As a War Fledgeling you'll need to make a good impression on us. We are looking for skill at playing your class, your ability to listen, to work well with your CL, your general attitude, and how well you mesh with our guild culture. The trial period lasts a minimum of three weeks.
+After an interview and some vetting, the officers will decide whether or not to accept you as a new recruit. As a War Fledgeling you'll need to make a good impression on us. We are looking for skill at playing your class, your ability to listen, to work well with the other people of your class, your general attitude, and how well you mesh with our guild culture. The trial period lasts a minimum of three weeks.
 
 ### How to Join
 Good job if you've read this far! Please go to our [Discord](https://discord.gg/SFnNfHv) and follow these directions: <br />
