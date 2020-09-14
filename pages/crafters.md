@@ -5,7 +5,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
 ---
-DM an officer (but realistically probably Rothana) on Discord to get yourself added to the list!
+DM an officer (but realistically probably Roth) on Discord to get yourself added to the list!
 - Don't expect me to notice loot, comments, or even tells in-game... send a direct message on Discord.
 - Enchanting and Alchemy are at the top because I think they're what people most frequently need to find a lackey for.
 - If there's an important item missing let me know.
@@ -87,30 +87,30 @@ _Calistto, Hanzho, Kidun, Litoses, Lumia, Pellor, Rothana, Scorch_
 **Mageblood:** Rothana, Litoses, Lumia, Calistto, Kidun <br />
 **Trollblood:** Rothana, Litoses, Lumia, Calistto, Kidun <br />
 **Mongoose:** Litoses, Rothana, Scorch, Hanzho, Lumia, Pellor, Calistto, Kidun <br />
-**Giants:** Pellor, Kidun <br />
+**Giants:** Pellor, Kidun, Lumia <br />
 **Poison Resistance:** Rothana, Litoses, Lumia, Calistto, Kidun <br />
-**Greater Frost Power:** Calistto <br />
-**Greater Fire Power:** Calistto, Kidun <br />
-**Shadow Power:** Rothana, Calistto, Kidun 
+**Greater Frost Power:** Calistto, Lumia <br />
+**Greater Fire Power:** Calistto, Kidun, Lumia <br />
+**Shadow Power:** Rothana, Calistto, Kidun, Lumia 
 
 ### Potions
 **Greater Fire Protection:** Litoses, Rothana, Lumia, Calistto, Kidun <br />
 **Greater Nature Protection:** Rothana, Litoses, Lumia, Calistto, Kidun <br />
 **Greater Frost Protection:** Litoses, Rothana, Lumia, Calistto, Kidun <br />
-**Greater Shadow Protection:** Rothana, Calistto, Kidun <br />
+**Greater Shadow Protection:** Rothana, Calistto, Kidun, Lumia <br />
 **Greater Stoneshield:** Rothana, Litoses, Lumia, Calistto, Kidun <br />
-**Limited Invulnerability:** Rothana, Pellor, Kidun <br />
+**Limited Invulnerability:** Rothana, Pellor, Kidun, Lumia <br />
 **Major Health:** Rothana, Litoses, Lumia, Calistto, Kidun <br />
 **Major Mana:** Rothana, Litoses, Lumia, Calistto, Kidun <br />
-**Mighty Rage:** Pellor, Kidun <br />
+**Mighty Rage:** Pellor, Kidun, Lumia <br />
 **Brute Force:** Lumia, Calistto <br />
 **Restorative:** Rothana, Lumia, Calistto, Kidun
 
 ### Miscellaneous
 **Gurubashi Mojo Madness:** Litoses, Rothana, Lumia, Calistto, Kidun <br />
 **Frost Oil:** Rothana, Lumia, Calistto, Kidun <br />
-**Shadow Oil:** Calistto, Rothana, Kidun <br />
-**Goblin Rocket Fuel:** Rothana, Calistto, Kidun
+**Shadow Oil:** Calistto, Rothana, Kidun, Lumia <br />
+**Goblin Rocket Fuel:** Rothana, Calistto, Kidun, Lumia
 
 ## Blacksmiths
 _Catlordx, Damebesitos_
