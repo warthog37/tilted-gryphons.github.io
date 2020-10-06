@@ -14,7 +14,7 @@ DM an officer (but realistically probably Roth) on Discord to get yourself added
 _Alister, Badasz, Healthpack, Kidun, Pellor(Becka), Phey, Taicelynn_
 
 ### Weapons
-**Crusader:** Badasz, Phey, Taicelynn, Alister, Kidun <br />
+**Crusader:** Badasz, Phey, Taicelynn, Alister, Kidun, Healthpack <br />
 **Fiery:** Taicelynn, Badasz, Phey, Alister, Kidun <br />
 **Icy:** Phey, Alister, Kidun <br />
 **Unholy:** Phey, Alister <br />
@@ -46,7 +46,7 @@ _Alister, Badasz, Healthpack, Kidun, Pellor(Becka), Phey, Taicelynn_
 **4pm5:** Taicelynn, Badasz, Phey, Alister, Kidun <br />
 **24 Healing:** Taicelynn, Badasz, Alister, Kidun <br />
 **7 Int:** Healthpack, Badasz, Phey, Alister <br />
-**9 Str:** Badasz, Phey, Taicelynn, Alister, Kidun <br />
+**9 Str:** Badasz, Phey, Taicelynn, Alister, Kidun, Healthpack <br />
 **9 Stam:** Badasz, Phey, Alister, Pellor(A), Kidun <br />
 **9 Spirit:** Badasz, Phey, Alister, Kidun
 
@@ -54,7 +54,7 @@ _Alister, Badasz, Healthpack, Kidun, Pellor(Becka), Phey, Taicelynn_
 **15 Agi:** Alister <br />
 **7 Agi:** Taicelynn, Badasz, Phey, Alister, Kidun <br />
 **7 Str:** Phey, Badasz, Alister <br />
-**Riding:** Taicelynn, Badasz, Phey, Alister <br />
+**Riding:** Taicelynn, Badasz, Phey, Alister, Healthpack <br />
 **Fire Power:** Phey <br />
 **Frost Power:** Healthpack, Kidun <br />
 **Healing Power:** <br />
