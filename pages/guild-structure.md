@@ -5,12 +5,11 @@ classes: wide
 **_Tilted Gryphons_** is a [semicore](/pages/semicore) PvE Alliance guild playing on the North American server Pagle. <br />
 
 ### Officer Roles
-We have one Guild Master and six officers who form our officer core. Officers are players who have volunteered to put in some extra effort to help keep the guild running so that everyone can have fun and clear content. You may see us all pile into the Round Table channel in Discord for the weekly meeting on Wednesdays.
+We have one Guild Master and six officers who form our officer core. Officers are players who have volunteered to put in some extra effort to help keep the guild running so that everyone can have fun and clear content. You may see us all pile into the Round Table channel in Discord for the weekly meeting on Wednesdays. Please note that officers don't get any extra perks for their efforts, they're just players too!
 
 ### Officer List
 **Guild Master Steward:** Hatredcopter <br />
 **Guild Master:** Distorted <br />
-**Officer:** Damebesitos <br />
 **Officer:** Deitz <br />
 **Officer:** Kanute <br />
 **Officer:** Lukster <br />
