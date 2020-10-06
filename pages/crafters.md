@@ -51,7 +51,7 @@ _Alister, Badasz, Healthpack, Kidun, Pellor(Becka), Phey, Taicelynn_
 **9 Spirit:** Badasz, Phey, Alister, Kidun
 
 ### Gloves
-**15 Agi:** <br />
+**15 Agi:** Alister <br />
 **7 Agi:** Taicelynn, Badasz, Phey, Alister, Kidun <br />
 **7 Str:** Phey, Badasz, Alister <br />
 **Riding:** Taicelynn, Badasz, Phey, Alister <br />
