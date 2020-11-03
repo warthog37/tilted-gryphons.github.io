@@ -219,6 +219,11 @@ h2, h3, h4, h5, h6 {
 		background-color: var(--notice-danger-bg-color);
 	}
 	
+	// General Link Colors
+	a:link, a:visited, a:hover {
+		color: var(--content-text-color);
+	}
+	
 	// TOC colors
 	.toc {
 		//color: #c792ea;
