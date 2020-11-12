@@ -28,10 +28,10 @@ We may be interested in picking up exceptional players regardless of whether we 
 **Class Openings (edited on: 12 Nov '20):** <br />
 **Druid** [Closed] <br />
 **Hunter** [Closed] <br />
-**Mage** [Open] <br />
+**Mage [Open]** <br />
 **Paladin** [Closed] <br />
-**Priest** [Open] <br />
-**Rogue** [Open] <br />
+**Priest [Open]** <br />
+**Rogue [Open]** <br />
 **Warlock** [Closed] <br />
 **Warrior** [Closed] <br />
 
