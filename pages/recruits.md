@@ -37,9 +37,10 @@ We may be interested in picking up exceptional players regardless of whether we 
 
 **Raid Times:** <br />
 9pm-1am server time (Eastern, GMT-5) <br />
-Tuesdays - AQ40 & AQ20 - counted in attendance.<br />
-Wednesdays - BWL & MC - counted in attendance. <br />
-Saturdays - AQ20 & ZG - attendance encouraged, but optional.
+Tuesdays - AQ40 & BWL - counted in attendance.<br />
+Wednesdays - MC binding run, ZG idol runs, Sac Farms - counted in attendance. <br />
+Saturdays - ZG - attendance encouraged, but optional.
+
 
 **Current Progression:** <br />
 AQ40 9/9 - one-shot C'thun the day the gates opened! <br />
