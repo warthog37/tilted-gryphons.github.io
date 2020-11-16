@@ -22,10 +22,11 @@ _Alister, Badasz, Healthpack, Kidun, Pellor(Becka), Phey, Taicelynn_
 **30 Spell Power:** Badasz, Alister, Taicelynn <br />
 **7 Frost Damage:** Healthpack, Alister <br />
 **22 Int:** Phey, Alister <br />
-**15 Agi:** Badasz, Phey, Alister, Kidun <br />
+**15 Agi 1h:** Badasz, Phey, Alister, Kidun <br />
+**25 Agi 2h:** Phey <br />
 **20 Spirit:** Phey, Kidun <br />
 **15 Str:** Phey, Kidun <br />
-**5 Dmg:** Phey, Alister
+**5 Dmg:** Phey, Alister 
 
 ### Oils
 **Mana Oil:** Alister, Phey, Pellor(A), Kidun <br />
@@ -120,12 +121,12 @@ _Catlordx, Damebesitos_
 dark iron gear?
 
 ### Frost Resist
-**Radiant Circlet:** <br />
-**Radiant Breastplate:** <br />
-**Radiant Gloves:** <br />
+**Radiant Circlet:** Catlordx <br />
+**Radiant Breastplate:** Catlordx <br />
+**Radiant Gloves:** Catlordx <br />
 **Radiant Belt:** <br />
-**Radiant Leggings:** <br />
-**Radiant Boots:** 
+**Radiant Leggings:** Catlordx <br />
+**Radiant Boots:**  Catlordx
 
 
 ## Engineers
