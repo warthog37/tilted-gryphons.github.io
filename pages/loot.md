@@ -7,10 +7,10 @@ We use a **loot council** which is comprised of the officers and two randomly se
 Officers usually have a firm idea of who is currently most eligible for an item based on attendance, attitude, performance, and effort.
 
 ### Guild Loot Priority
-The guild's [loot priority outline](https://docs.google.com/spreadsheets/d/17gVCAlQK3_t0znFviccCSD6rcOJlXDODOXFTroTw0II/edit#gid=1516348409) is always available for you to review. This document lays out which classes have priority on specific pieces of gear and is determined by the officers. Classes or specs who don't have another good option, who will use a piece of gear for the longest, or who will get the most benefit over other classes, will tend to get prio.
+The guild's [loot priority outline](https://docs.google.com/spreadsheets/d/1tI7YoZtPB2ySKbB14MiN791i9h5P0O7Zy2X5Badd0TY/edit#gid=48350099) is always available for you to review. This document lays out which classes have priority on specific pieces of gear and is determined by the officers. Classes or specs who don't have another good option, who will use a piece of gear for the longest, or who will get the most benefit over other classes, will tend to get prio.
 
 ### Loot Council Guidelines
-Our loot is distributed according to our [loot priority outline](https://docs.google.com/spreadsheets/d/17gVCAlQK3_t0znFviccCSD6rcOJlXDODOXFTroTw0II/edit#gid=1516348409).
+Our loot is distributed according to our [loot priority outline](https://docs.google.com/spreadsheets/d/1tI7YoZtPB2ySKbB14MiN791i9h5P0O7Zy2X5Badd0TY/edit#gid=48350099).
 We aim to have a system that fairly distributes loot as quickly and efficiently as possible, while still keeping our raid goals in mind. That being said, here are the general steps we take when something drops:
 
 **[1]** We figure out who most qualifies for it. For this, we immediately reference our loot priority document linked above. <br />
