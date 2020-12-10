@@ -29,8 +29,8 @@ We may be interested in picking up exceptional players regardless of whether we 
 **Druid** [Closed] <br />
 **Hunter** [Closed] <br />
 **Mage [Open]** <br />
-**Paladin** [Closed] <br />
-**Priest [Open]** <br />
+**Paladin (Holy) [Open]** <br />
+**Priest (Holy) [Open]** <br />
 **Rogue [Open]** <br />
 **Warlock** [Closed] <br />
 **Warrior** [Closed] <br />
