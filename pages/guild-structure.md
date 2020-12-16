@@ -8,8 +8,8 @@ classes: wide
 We have one Guild Master and six officers who form our officer core. Officers are players who have volunteered to put in some extra effort to help keep the guild running so that everyone can have fun and clear content. You may see us all pile into the Round Table channel in Discord for the weekly meeting on Wednesdays. Please note that officers don't get any extra perks for their efforts, they're just players too!
 
 ### Officer List
-**Guild Master Steward:** Hatredcopter <br />
-**Guild Master:** Distorted <br />
+**Original GM:** Distorted <br />
+**Guild Master:** Hatredcopter <br />
 **Officer:** Deitz <br />
 **Officer:** Kanute <br />
 **Officer:** Lukster <br />
@@ -18,7 +18,8 @@ We have one Guild Master and six officers who form our officer core. Officers ar
 
 ### Guild Ranks
 **Gryphon Master:** Guild Master <br />
-**Flightmaster:** Officers and their Alts <br />
+**Flightmaster:** Officers <br />
+**Looty Hooty Hoo:** Officer alts and random Loot Council members <br />
 **War Gryphon:** Core Raiders <br />
 **War Fledgeling:** Trial Raiders <br />
 **Gryphon:** Casuals, Socials, Friends, Family, Substitute Raiders, Core Raider Alts <br />
