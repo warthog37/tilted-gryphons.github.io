@@ -25,7 +25,7 @@ Tilted Gryphons is a PvE-focused semi-core raiding guild which looks for social 
 If you'd like to join as a raider, there are a great many more requirements. First and foremost, do we have an opening for your class? <br />
 We may be interested in picking up exceptional players regardless of whether we are actively recruiting a class, so if you're really keen to join our guild specifically, feel free to try your luck!
 
-**Class Openings (edited on: 12 Nov '20):** <br />
+**Class Openings (edited on: 16 Dec '20):** <br />
 **Druid** [Closed] <br />
 **Hunter** [Closed] <br />
 **Mage [Open]** <br />
@@ -37,12 +37,13 @@ We may be interested in picking up exceptional players regardless of whether we 
 
 **Raid Times:** <br />
 9pm-1am server time (Eastern, GMT-5) <br />
-Tuesdays - AQ40 & BWL - counted in attendance.<br />
-Wednesdays - MC binding run, ZG idol runs, Sac Farms - counted in attendance. <br />
-Saturdays - ZG - attendance encouraged, but optional.
+Tuesdays - Naxxramas - counted in attendance.<br />
+Wednesdays - Naxxramas - counted in attendance. <br />
+Saturdays - ZG, Binding Run - attendance encouraged, but optional.
 
 
 **Current Progression:** <br />
+Naxx 13/15 <br />
 AQ40 9/9 - one-shot C'thun the day the gates opened! <br />
 AQ20 6/6 <br />
 BWL 8/8 <br />
@@ -50,7 +51,7 @@ MC 10/10 <br />
 ZG 10/10
 
 ### Requirements for a Core Raid Spot
-• Be attuned to Ony, MC, and BWL. <br />
+• Be attuned to Ony, MC, BWL, and Naxx. <br />
 • Maintain reliable attendance of at least 75%. <br />
 • Sign up on Discord with an appropriate reaction every raid. <br />
 • Have a headset and use a push-to-talk button. <br />
