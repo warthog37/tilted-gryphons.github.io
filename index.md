@@ -7,6 +7,10 @@ classes:
 sidebar:
   nav: "sidemenu"
 ---
+### Tilted Gryphons Kill the Last Two Bosses of the Game! 21/Dec/2020
+![Tilted Gryphons Kill Kel'Thuzad in Naxxramas](/assets/images/tg_first_kt_kill.png "TG First KT kill")
+![Tilted Gryphons Kill Sapphiron in Naxx](/assets/images/tg_first_sapph_kill.png "TG First Sapph kill")
+
 ### Tilted Gryphons One-Shot C'thun First Night in AQ40 5/Aug/2020
 ![Tilted Gryphons One-Shot C'thun First Night in AQ40](/assets/images/tg_openingnight_first_cthun_kill.png "TG First C'thun kill")
 
