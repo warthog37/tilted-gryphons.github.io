@@ -15,6 +15,7 @@ We have one Guild Master and six officers who form our officer core. Officers ar
 **Officer:** Lukster <br />
 **Officer:** Rothana <br />
 **Officer:** Scorch <br />
+**Officer:** Taicelynn <br />
 
 ### Guild Ranks
 **Gryphon Master:** Guild Master <br />
