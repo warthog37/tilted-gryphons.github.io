@@ -118,11 +118,11 @@ dark iron gear?
 
 ## Engineers
 **Biznicks 247x128 Accurascope (3% ranged hit):** Kanute, Rothana <br />
-**Sniper Scope (+7 dmg):** Kanute, Rothana <br />
-**Thorium Shells:** Kanute, Rothana <br />
+**Sniper Scope (+7 dmg):** Kanute, Rothana, Deitz <br />
+**Thorium Shells:** Kanute, Rothana, Deitz <br />
 **Force Reactive Disk:** Kanute <br />
 **Hyper-Radiant Flame Reflector:** Kanute <br />
-**Ultra-Flash Shadow Reflector:** Kanute <br />
+**Ultra-Flash Shadow Reflector:** Kanute, Deitz <br />
 **Gyrofreeze Ice Reflector:** Kanute <br />
 **Arcanite Dragonling:** Kanute <br />
 **Goblin Sapper Charges:** Rothana, Uncensored 
@@ -145,13 +145,13 @@ dark iron gear?
 ## Tailors
 **Flarecore Set:** Phey <br />
 **Bloodvine Set:** Phey, Alister <br />
-**Felcloth Set:** Deitz, Phey, Alister <br />
+**Felcloth Set:** Phey, Alister <br />
 **Frostweave Set:** Phey, Alister <br />
 **Stygian Set:** Phey, Alister
 
 ### Bags
-**Core Felcloth Bag:** Deitz, Phey <br />
+**Core Felcloth Bag:** Phey <br />
 **Bottomless Bag:**  <br />
-**Mooncloth Bag:** Deitz, Rothana, Lisapants, Phey, Alister <br />
+**Mooncloth Bag:** Rothana, Lisapants, Phey, Alister <br />
 **Satchel of Cenarius:**  <br />
 **Big Bag of Enchantment:** Alister
