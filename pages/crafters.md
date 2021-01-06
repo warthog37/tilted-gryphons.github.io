@@ -56,8 +56,8 @@ DM an officer (but realistically probably Rothana) on Discord to get yourself ad
 **Riding:** Taicelynn, Badasz, Phey, Alister <br />
 **Fire Power:** Phey <br />
 **Frost Power:** <br />
-**Healing Power:** <br />
-**Shadow Power:**
+**Healing Power:** Shadecloak <br />
+**Shadow Power:** Phey
 
 ### Boots
 **7 Agi:** Taicelynn, Badasz, Phey, Alister <br />
@@ -72,34 +72,34 @@ DM an officer (but realistically probably Rothana) on Discord to get yourself ad
 **Dodge:**
 
 ## Alchemists
-• Litoses has everything and Roth has most things.
+• Litoses, Girthymcgee has everything and Roth has most things.
 
 ### Flasks
-**Titans:** Litoses, Lumia <br />
-**Supreme Power:** Litoses, Rothana, Scorch, Lumia <br />
-**Distilled Wisdom:** Litoses, Rothana, Lumia <br />
-**Chromatic Resistance:** Litoses, Rothana, Lumia
+**Titans:** Litoses, Lumia, Girthymcgee, Nerio <br />
+**Supreme Power:** Litoses, Rothana, Scorch, Lumia, Girthymcgee <br />
+**Distilled Wisdom:** Litoses, Rothana, Lumia, Girthymcgee, Nerio <br />
+**Chromatic Resistance:** Litoses, Rothana, Lumia, Girthymcgee, Nerio
 
 ### Elixirs
-**Greater Arcane:** Litoses, Rothana, Lumia <br />
-**Mageblood:** Rothana, Litoses, Lumia <br />
-**Trollblood:** Rothana, Litoses, Lumia <br />
-**Mongoose:** Litoses, Rothana, Scorch, Hanzho, Lumia <br />
-**Poison Resistance:** Rothana, Litoses, Lumia
+**Greater Arcane:** Litoses, Rothana, Lumia, Girthymcgee <br />
+**Mageblood:** Rothana, Litoses, Lumia, Girthymcgee, Nerio <br />
+**Trollblood:** Rothana, Litoses, Lumia, Girthymcgee, Nerio <br />
+**Mongoose:** Litoses, Rothana, Scorch, Hanzho, Lumia, Girthymcgee, Nerio <br />
+**Poison Resistance:** Rothana, Litoses, Lumia, Girthymcgee
 
 ### Potions
-**Greater Fire Prot:** Litoses, Rothana, Lumia <br />
-**Greater Nature Prot:** Rothana, Litoses, Lumia <br />
-**Greater Frost Prot:** Litoses, Lumia <br />
-**Greater Stoneshield:** Rothana, Litoses, Lumia <br />
-**Major Health:** Rothana, Litoses, Lumia <br />
-**Major Mana:** Rothana, Litoses, Lumia <br />
-**Brute Force:** Lumia <br />
-**Restorative:** Rothana, Lumia
+**Greater Fire Prot:** Litoses, Rothana, Lumia, Girthymcgee, Nerio <br />
+**Greater Nature Prot:** Rothana, Litoses, Lumia, Girthymcgee, Nerio <br />
+**Greater Frost Prot:** Litoses, Lumia, Girthymcgee, Nerio <br />
+**Greater Stoneshield:** Rothana, Litoses, Lumia, Girthymcgee, Nerio <br />
+**Major Health:** Rothana, Litoses, Lumia, Girthymcgee, Nerio <br />
+**Major Mana:** Rothana, Litoses, Lumia, Girthymcgee, Nerio <br />
+**Brute Force:** Lumia, Girthymcgee <br />
+**Restorative:** Rothana, Lumia, Girthymcgee, Nerio
 
 ### Miscellaneous
-**Gurubashi Mojo Madness:** Litoses, Rothana, Lumia <br />
-**Frost Oil:** Rothana, Lumia
+**Gurubashi Mojo Madness:** Litoses, Rothana, Lumia, Girthymcgee <br />
+**Frost Oil:** Rothana, Lumia, Girthymcgee, Nerio
 
 
 ## Blacksmiths
@@ -128,19 +128,19 @@ dark iron gear?
 **Goblin Sapper Charges:** Rothana, Uncensored 
 
 ## Leatherworkers
-**Devilsaur Legs:** Reohaiko, Hatredcopter <br />
-**Devilsaur Gloves:** Reohaiko, Hatredcopter <br />
+**Devilsaur Legs:** Reohaiko, Hatredcopter, Lukster <br />
+**Devilsaur Gloves:** Reohaiko, Hatredcopter, Lukster <br />
 
 ### Nature Resist
-**Sandstalker Bracers:** Hatredcopter <br />
-**Sandstalker Gauntlets:** Hatredcopter <br />
-**Sandstalker Breastplate:**
+**Sandstalker Bracers:** Hatredcopter, Lukster <br />
+**Sandstalker Gauntlets:** Hatredcopter, Lukster <br />
+**Sandstalker Breastplate:** Lukster
 
 ### Frost Resist
-**Frostsaber Tunic:** <br />
-**Frostsaber Leggings:** <br />
-**Frostsaber Gloves:** <br />
-**Frostsaber Boots:** <br />
+**Frostsaber Tunic:** Lukster <br />
+**Frostsaber Leggings:** Lukster <br />
+**Frostsaber Gloves:** Lukster <br />
+**Frostsaber Boots:** Lukster <br />
 
 ## Tailors
 **Flarecore Set:** Phey <br />
